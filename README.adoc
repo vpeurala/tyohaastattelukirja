@@ -7,6 +7,14 @@
 
 == Alkusanat
 
+Olen pitänyt varmaan jotain ~500 teknistä työhaastattelua, joista ehkä ~300 Reaktorilla ja ~200 Wunderdogilla. En tiedä työhaastattelun pitämisestä kaikkea, mutta tiedän perusjutut. Tässä oppaassa olen yrittänyt tiivistää ne mahdollisimman tiukkaan pakettiin, jotta työhaastattelua ensimmäistä kertaa pitävä ei joutuisi tekemään niitä samoja virheitä, joita itse olen tehnyt.
+
+Tässä oppaassa keskitytään lähinnä ns. tekniseen kierrokseen, joka on Wunderdogin perusrekrykuviossa yleensä toinen kierros. Homma menee yleensä näin:
+
+. Ensimmäinen kierros: tsekataan persoonaa, soveltuuko työyhteisöön, vaikuttaako halukkaalta oppimaan ja kehittymään, jne. Tämän pitää yleensä *Mobu*.
+. Toinen kierros: tekninen työhaastattelu. Tähän keskitytään tässä oppaassa. Pitäjät yleensä: joku viisikosta *luotsina* ja joku Wunderdogin koodaaja *lautturina*. Kiitos **Valde**lle hyvien termien keksimisestä!
+. Kolmas kierros: käytännön asioista, kuten palkasta ja töiden aloittamisesta, sopiminen. Tämänkin pitää yleensä *Mobu*.
+
 <<<
 
 == Työhaastatteluun kutsuminen
