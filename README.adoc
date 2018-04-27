@@ -1,12 +1,17 @@
-= Työhaastattelun alkeet
-Ville Peurala <ville.peurala@gmail.com>
-Versio 1.0, 26.4.2018
+= {blank}
+:notitle:
 :toc:
-:imagesdir: ./images
+:imagesdir: images
+:front-cover-image: images/tyohaastattelukirja_kansikuva.png
+:pdf-page-size: [148mm, 210mm]
 
-== Alkupuheenvuoro
+== Alkusanat
+
+<<<
 
 == Työhaastatteluun kutsuminen
+
+<<<
 
 == Perusjärjestelyt
 
@@ -14,9 +19,17 @@ Versio 1.0, 26.4.2018
 
 === Istumajärjestys
 
-== Hakijan vastaanottaminen
+=== Hakijan vastaanottaminen
+
+=== Ensivaikutelman luominen
+
+=== Esittäytyminen
+
+<<<
 
 == Työhaastattelun rakenne
+
+<<<
 
 == Erilaisia kysymyksiä
 
@@ -48,15 +61,25 @@ WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaihee
 
 === Asioita, joita ei saa kysyä
 
+<<<
+
 == Ruumiinkieli
+
+<<<
 
 == Molemminpuolinen hyöty
 
+<<<
+
 == Rekry on myös myyntiä
+
+<<<
 
 == Toisen ihmisen tunteiden manipulointi
 
 === Milloin se on eettisesti hyväksyttävää, milloin ei
+
+<<<
 
 == Loppusanat
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-asciidoctor-pdf book.adoc
+asciidoctor-pdf --doctype=book book.adoc
 open book.pdf
 
 
