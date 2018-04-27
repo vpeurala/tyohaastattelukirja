@@ -15,6 +15,12 @@ Tässä oppaassa keskitytään lähinnä ns. tekniseen kierrokseen, joka on Wund
 . Toinen kierros: tekninen työhaastattelu. Tähän keskitytään tässä oppaassa. Pitäjät yleensä: joku viisikosta *luotsina* ja joku Wunderdogin koodaaja *lautturina*. Kiitos **Valde**lle hyvien termien keksimisestä!
 . Kolmas kierros: käytännön asioista, kuten palkasta ja töiden aloittamisesta, sopiminen. Tämänkin pitää yleensä *Mobu*.
 
+Kaikki tämän oppaan neuvot ovat vain ohjeellisia! Jos sinusta tuntuu, että joku sanottava asia ei sovi sinun suuhusi, niin älä sano sitä. On tärkeää pitää keskustelu kaikille osapuolille luontevana.
+
+Tärkeintä työhaastattelussa on saada tieto siitä, haluammeko palkata hakijan.
+
+Toiseksi tärkeintä on jättää kaikille osapuolille hyvä fiilis keskustelusta, ja hakijalle sellainen olo että hän haluaa vielä keskustelun jälkeenkin töihin Wunderdogille.
+
 <<<
 
 == Roolijako
