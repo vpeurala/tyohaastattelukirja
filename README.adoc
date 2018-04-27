@@ -17,6 +17,17 @@ Tässä oppaassa keskitytään lähinnä ns. tekniseen kierrokseen, joka on Wund
 
 <<<
 
+== Roolijako
+
+Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja *lautturi*, ja näistä on hyvä sopia etukäteen. Yleensä joku viisikosta on *luotsi* ja joku Wunderdogin koodaaja *lautturi*. Tehtävät ovat seuraavanlaiset:
+
+* Luotsi: Ohjailee keskustelun suuria linjoja. Toimii ikään kuin keskustelun puheenjohtajana. Päättää keskustelun kun on sen aika.
+* Lautturi: Tarkkailee tilannetta ja kuuntelee tarkasti hakijan vastauksia. Esittää lisäkysymyksiä. Pyrkii pitämään keskustelun käynnissä.
+
+=== Muistiinpanot
+
+On yleensä järkevintä, että *lautturilla* on mukanaan läppäri, jolla hän tekee muistiinpanoja, ja *luotsilla* on kynä ja paperia. Lopuksi tehdään yhteenveto muistiinpanoista.
+
 == Työhaastatteluun kutsuminen
 
 <<<
