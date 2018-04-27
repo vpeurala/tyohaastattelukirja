@@ -1,9 +1,43 @@
 = Työhaastattelun alkeet
+Ville Peurala <ville.peurala@gmail.com>
+Versio 1.0, 26.4.2018
+
+== Erilaisia kysymyksiä
+
+=== Avoin kysymys
 
 Avoin kysymys on mukava ja rohkaisee keskusteluun. Avoimet kysymykset ovat ylivoimaisesti parhaita työhaastattelukysymyksiä lähes joka tilanteessa. On joitakin asioita, joihin ne eivät sovi, mutta näistä lisää myöhemmin.
+
+=== Suljettu kysymys
+
+=== Hyökkäävä kysymys
+
+Hyökkääviä kysymyksiä kannattaa käyttää vain hyvin harvoin. Silloin, kun käyttää, on hyvä olla siitä itse tietoinen. Näitä tulee välillä vahingossa kokeneellekin työhaastattelijalle.
+
+Hyökkäävän kysymyksen tunnistaa siitä, että siihen voi vastata vain oikein tai väärin. Tällaiset kysymykset tuottavat usein hakijalle epämukavan tunteen. Hyökkäävässä kysymyksessä hakijan ammattitaito kyseenalaistetaan.
+
+Esimerkkejä hyökkäävistä kysymyksistä:
+
+_"Mikä on Jakarta Strutsissa se kantaluokka josta kaikkien controllereiden pitää periytyä?"_
+
+_"Oletko ahkera ja luotettava?"_
+
+_"Osaisitko pystyttää yksin keskisuuren yrityksen sisäverkon?"_
+
+WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaiheessa kun sanoo sen. Vasta jälkikäteen (toivottavasti) ymmärtää tehneensä virheen.
+
+== Ruumiinkieli
+
+== Molemminpuolinen hyöty
+
+== Rekry on myös myyntiä
+
+== Toisen ihmisen tunteiden manipulointi
+
+=== Milloin se on eettisesti hyväksyttävää, milloin ei
+
+== Loppusanat
 
 _Nyt kuolette, sanoi Pekka._
 
 Se oli *Tuonelan tarharetki*.
-
-
