@@ -1,6 +1,22 @@
 = Työhaastattelun alkeet
 Ville Peurala <ville.peurala@gmail.com>
 Versio 1.0, 26.4.2018
+:toc:
+:imagesdir: ./images
+
+== Alkupuheenvuoro
+
+== Työhaastatteluun kutsuminen
+
+== Perusjärjestelyt
+
+=== Varaa huone
+
+=== Istumajärjestys
+
+== Hakijan vastaanottaminen
+
+== Työhaastattelun rakenne
 
 == Erilaisia kysymyksiä
 
@@ -25,6 +41,12 @@ _"Oletko ahkera ja luotettava?"_
 _"Osaisitko pystyttää yksin keskisuuren yrityksen sisäverkon?"_
 
 WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaiheessa kun sanoo sen. Vasta jälkikäteen (toivottavasti) ymmärtää tehneensä virheen, ja välttää saman virheen tekemistä jatkossa.
+
+=== Hyviä kysymyksiä
+
+=== Huonoja kysymyksiä
+
+=== Asioita, joita ei saa kysyä
 
 == Ruumiinkieli
 
