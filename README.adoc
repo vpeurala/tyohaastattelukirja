@@ -24,7 +24,7 @@ _"Oletko ahkera ja luotettava?"_
 
 _"Osaisitko pystyttää yksin keskisuuren yrityksen sisäverkon?"_
 
-WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaiheessa kun sanoo sen. Vasta jälkikäteen (toivottavasti) ymmärtää tehneensä virheen.
+WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaiheessa kun sanoo sen. Vasta jälkikäteen (toivottavasti) ymmärtää tehneensä virheen, ja välttää saman virheen tekemistä jatkossa.
 
 == Ruumiinkieli
 
