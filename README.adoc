@@ -25,7 +25,7 @@ Toiseksi tärkeintä on jättää kaikille osapuolille hyvä fiilis keskustelust
 
 == Roolijako
 
-Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja *lautturi*, ja näistä on hyvä sopia etukäteen. Yleensä joku viisikosta on *luotsi* ja joku Wunderdogin koodaaja *lautturi*. Tehtävät ovat seuraavanlaiset:
+Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja *lautturi*, ja näistä on hyvä sopia etukäteen. Kiitokset **Valde**lle näistä erinomaisista termeistä. Yleensä joku viisikosta on *luotsi* ja joku Wunderdogin koodaaja *lautturi*. Tehtävät ovat seuraavanlaiset:
 
 * Luotsi: Ohjailee keskustelun suuria linjoja. Toimii ikään kuin keskustelun puheenjohtajana. Päättää keskustelun kun on sen aika.
 * Lautturi: Tarkkailee tilannetta ja kuuntelee tarkasti hakijan vastauksia. Esittää lisäkysymyksiä. Pyrkii pitämään keskustelun käynnissä.
@@ -34,7 +34,20 @@ Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja 
 
 On yleensä järkevintä, että *lautturilla* on mukanaan läppäri, jolla hän tekee muistiinpanoja, ja *luotsilla* on kynä ja paperia. Lopuksi tehdään yhteenveto muistiinpanoista.
 
+Muistiinpanojen tekemisessä kannattaa käyttää tervettä järkeä. Kaikkia pikkunippeliasioita ei tarvitse kirjata ylös. Sellaiset asiat kannattaa kirjata ylös, jotka:
+
+* Vaikuttavat rekrypäätökseen, tai
+* Vaikuttavat hakijan tulevaan työnkuvaan Wunderdogilla mikäli hän päätyy WD:lle töihin, tai
+* Ovat muuten vaan erityisen mielenkiintoisia
+
 == Työhaastatteluun kutsuminen
+
+Kutsu työhaastatteluun tapahtuu yleensä sähköpostitse. Muista kutsussa seuraavat asiat:
+
+* Ehdotettu aika, ja pyyntö että hakija itse ehdottaa jotakin toista aikaa jos tämä ei sovi
+* Paikka, käytännössä aina Wunderdogin toimisto osoitteessa Mikonkatu 13 A, 4. kerros
+* Maininta siitä, että hakijan toivotaan tuovan koodinäyte mukanaan tai lähettävän sen etukäteen
+* Maininta siitä, että olisi hyvä jos hakijalla olisi mukanaan oma läppäri, josta hän voi esimerkiksi esitellä koodinäytettään (mielellään vielä kehitysympäristö valmiina)
 
 <<<
 
@@ -42,9 +55,15 @@ On yleensä järkevintä, että *lautturilla* on mukanaan läppäri, jolla hän 
 
 === Varaa huone
 
+Huoneiden varaus tapahtuu Google Calendarin kautta. Kannattaa yleensä varata työhaastatteluihin *Luola*. Se on tilana hieman turhan iso, mutta muuten hyvä työhaastattelun pitämiseen.
+
 === Istumajärjestys
 
+Haastattelussa kannattaa istuttaa hakija niin, että hänen selkänsä osoittaa toimistolle (ts. ovelle) päin. Tällä tavalla hän ei häiriinny toimiston vilinän näkemisestä.
+
 === Hakijan vastaanottaminen
+
+
 
 === Ensivaikutelman luominen
 
