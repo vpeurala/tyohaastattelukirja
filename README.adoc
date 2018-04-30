@@ -235,9 +235,11 @@ Nämä minä pyrin yleensä hoitamaan haastattelun loppupuolella.
 
 === Ehto: molemminpuolinen hyöty
 
+Positiivinen rekrytointipäätös syntyy silloin, kun haastattelijat ovat sitä mieltä, että sekä hakijan että Wunderdogin etu olisi, että hakija tulisi töihin Wunderdogille. Win-win.
 
+Tämän jälkeenkään ei ole sanottu, että hakija välttämättä ottaisi työtarjousta vastaan. Koodaajien työmarkkinat ovat kuumat. On paljon sellaisia koodaajia, jotka joka ikinen tämän alan firma ottaisi jos vain saisi. Meidän rimamme on korkealla, ja niinpä ne koodaajat, jotka kelpaavat meille, kelpaavat useimmille muillekin alan firmoille.
 
-
+Jos me tarjoamme töitä jollekin mutta hän ei ota niitä vastaan, ei se ole katastrofi. Ei vaan myyty ihan tarpeeksi hyvin. Noita sattuu. Ensi kerralla vielä paremmin.
 
 <<<
 
