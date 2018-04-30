@@ -20,7 +20,7 @@ Olen pitänyt varmaan jotain ~500 teknistä työhaastattelua, joista ehkä ~300 
 Tässä oppaassa keskitytään lähinnä ns. tekniseen kierrokseen, joka on Wunderdogin perusrekrykuviossa yleensä toinen kierros. Homma menee yleensä näin:
 
 . Ensimmäinen kierros: tsekataan persoonaa, soveltuuko työyhteisöön, vaikuttaako halukkaalta oppimaan ja kehittymään, jne. Tämän pitää yleensä *Mobu*.
-. Toinen kierros: tekninen työhaastattelu. Tähän keskitytään tässä oppaassa. Pitäjät yleensä: joku viisikosta *luotsina* ja joku Wunderdogin koodaaja *lautturina*. Kiitos **Valde**lle hyvien termien keksimisestä!
+. Toinen kierros: tekninen työhaastattelu. Tähän keskitytään tässä oppaassa. Pitäjät yleensä: joku viisikosta *luotsina* ja joku Wunderdogin koodaaja *lautturina*.
 . Kolmas kierros: käytännön asioista, kuten palkasta ja töiden aloittamisesta, sopiminen. Tämänkin pitää yleensä *Mobu*.
 
 Kaikki tämän oppaan neuvot ovat vain ohjeellisia! Jos sinusta tuntuu, että joku sanottava asia ei sovi sinun suuhusi, niin älä sano sitä. On tärkeää pitää keskustelu kaikille osapuolille luontevana.
@@ -33,12 +33,12 @@ Toiseksi tärkeintä on jättää kaikille osapuolille hyvä fiilis keskustelust
 
 == Roolijako
 
-Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja *lautturi*, ja näistä on hyvä sopia etukäteen. Kiitokset **Valde**lle näistä erinomaisista termeistä. Yleensä joku viisikosta on *luotsi* ja joku Wunderdogin koodaaja *lautturi*. Tehtävät ovat seuraavanlaiset:
+Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja *lautturi*, ja näistä on hyvä sopia etukäteen. Kiitos **Valde**lle hyvien termien keksimisestä! Yleensä joku viisikosta on *luotsi* ja joku Wunderdogin koodaaja *lautturi*. Tehtävät ovat seuraavanlaiset:
 
 Luotsi:: Ohjailee keskustelun suuria linjoja. Toimii ikään kuin keskustelun puheenjohtajana. Päättää keskustelun kun on sen aika.
 Lautturi:: Tarkkailee tilannetta ja kuuntelee tarkasti hakijan vastauksia. Esittää lisäkysymyksiä. Pyrkii pitämään keskustelun käynnissä.
 
-=== Muistiinpanot
+=== Muistiinpanojen tekeminen
 
 On yleensä järkevintä, että *lautturilla* on mukanaan läppäri, jolla hän tekee muistiinpanoja, ja *luotsilla* on kynä ja paperia. Lopuksi tehdään yhteenveto muistiinpanoista.
 
@@ -49,6 +49,12 @@ Muistiinpanojen tekemisessä kannattaa käyttää tervettä järkeä. Kaikkia pi
 * Ovat muuten vaan erityisen mielenkiintoisia
 
 Mikäli molemmilla haastattelijoilla on läppäri mukanaan, on suositeltavaa, että vain toinen niistä on kerrallaan auki. Vähintään toisella haastattelijoista pitäisi olla koko ajan suora katse- ja kehonkielikontakti hakijaan, ja auki oleva läppäri katkaisee sen aika tehokkaasti.
+
+=== Muistiinpanojen jälkikäsittely
+
+Mielellään heti haastattelun jälkeen *luotsi* puhtaaksikirjoittaa muistiinpanot ja postaa ne Slackin suljetulle kanavalle, jossa firman johto miettii rekrypäätöksiä.
+
+Tämä kannattaa tehdä heti, kun haastattelu on ohi, jos vain mitenkään mahdollista. Silloin vielä muistaa mihin asiaan mikin ranskalainen viiva muistiinpanoissa viittaa.
 
 == Työhaastatteluun kutsuminen
 
@@ -133,6 +139,16 @@ Hotellihuonetesti:: Jos hakija olisi sinun huonekaverisi koulutusmatkalla (eli v
 
 Kun saat itseltäsi vastaukset näihin kysymyksiin, niin mieti, miksi näin. Mitä mahdollisia ongelmia projektin tekemisessä yhdessä voisi tulla? Miten saisit ne selville haastattelun aikana? Mistä te todennäköisesti juttelisitte, jos menisitte kaljalle? Mitä todennäköisesti puuhailisitte, jos teillä olisi yhteinen hotellihuone? Mieti, mistä se fiilis tulee, joka sinulla on. Joskus se on pelkkää intuitiota eikä sitä pysty perustelemaan järjellä, mutta usein pystyy kun miettii hetken.
 
+=== Haastattelun lopettaminen
+
+Kun haastattelua ollaan lopettamassa, *luotsi* kertoo hakijalle, että palaamme asiaan viikon sisällä. Eli oli lopputulos mikä tahansa, joku Wunderdogilta on yhteydessä hakijaan viikon kuluessa ja kertoo miten kävi. Tämä on merkki *lautturille*, että nyt haastattelu loppuu näiden jälkeen.
+
+Sitten *luotsi* kysyy lopuksi hakijalta, onko hänellä vielä jotain kysyttävää tai kerrottavaa. Jotkut hakijat kyselevät paljonkin, tai kertovat jotain itsestään. Useimmat vastaavat, että eipä tässä oikein mitään.
+
+Hakijan kyselyvuoron jälkeen *luotsi* sanoo "kiitos tästä" tai jotain vastaavaa tilanteeseen sopivaa. Noustaan ylös. Kätellään taas. Ohjataan hakija lempeästi ulko-ovelle, toivotetaan hyvät jatkot ja pidetään pieni noin viiden minuutin tauko.
+
+Sitten kasataan muistiinpanot ja *luotsi* hoitaa homman eteenpäin.
+
 <<<
 
 == Erilaisia kysymyksiä
@@ -184,7 +200,7 @@ WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaihee
 * Mikä on kaikkein parasta funktionaalisessa ohjelmoinnissa?
 * Mikä on suosikkiohjelmointikielesi?
 * Mitä kaikkia asioita ja toisia teknologioita sinun mielestäsi kuuluu teknologian X ekosysteemiin?
-* Mitä tekisit, jos sinulla olisi töissä kaksi viikkoa täysin vapaata aikaa uusien asioiden treenaamiseen ja itsesi kehittämiseen? Eli jos sinulla ei olisi projektia? 
+* Mitä tekisit, jos sinulla olisi töissä kaksi viikkoa täysin vapaata aikaa uusien asioiden treenaamiseen ja itsesi kehittämiseen? Eli jos sinulla ei olisi projektia?
 
 === Huonoja kysymyksiä
 * _Missä näet itsesi viiden vuoden päästä?_ Kaikkien paskojen työhaastattelukysymysten äiti. Ei tähän tiedä kukaan oikeaa vastausta, ja yleensä hakija vastaa tähän sen mitä kuvittelee haastatteli(jan|joiden) haluavan kuulla. Eli saat vastaukseksi jonkinlaisen hätävalheen siitä, että kyllä kyllä, yritän pyrkiä urallani eteenpäin, kolmen vuoden päästä olen ehkä arkkitehti ja kuuden vuoden päästä projektipäällikkö ja kymmenen vuoden päästä ylimmässä johdossa. Vaikka oikeasti haluaisinkin vain koodata.
@@ -195,7 +211,7 @@ WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaihee
 
 * Poliittiset mielipiteet tai poliittinen toiminta.
 * Armeijan käyminen/asevelvollisuuden suorittaminen muuten kuin yleisellä tasolla, eli onko vielä asevelvollisuuden suorittaminen edessä (tämä saattaa tulla joskus vastaan erityisen nuorten työnhakijoiden kanssa). Ei saa kysyä, kävikö intin vai sivarin vai totaalin vai saiko vapautuksen.
-* Mahdolliset perheenlisäyssuunnitelmat. Yleensä ei kannata nykyisten lasten olemassaolosta ja määrästäkään kysyä mitään, ellei hakija oma-aloitteisesti kerro. Se ei ole käsittääkseni laissa kiellettyä, mutta pidän sitä mauttomana. 
+* Mahdolliset perheenlisäyssuunnitelmat. Yleensä ei kannata nykyisten lasten olemassaolosta ja määrästäkään kysyä mitään, ellei hakija oma-aloitteisesti kerro. Se ei ole käsittääkseni laissa kiellettyä, mutta pidän sitä mauttomana.
 * Seksuaalinen suuntautuminen.
 * Ammattiliiton jäsenyys.
 * Uskonnollinen vakaumus tai sellaisen puuttuminen.
@@ -215,7 +231,13 @@ Nämä minä pyrin yleensä hoitamaan haastattelun loppupuolella.
 
 <<<
 
-== Molemminpuolinen hyöty
+== Päätöksenteko
+
+=== Ehto: molemminpuolinen hyöty
+
+
+
+
 
 <<<
 
