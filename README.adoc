@@ -187,19 +187,27 @@ WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaihee
 * Mitä tekisit, jos sinulla olisi töissä kaksi viikkoa täysin vapaata aikaa uusien asioiden treenaamiseen ja itsesi kehittämiseen? Eli jos sinulla ei olisi projektia? 
 
 === Huonoja kysymyksiä
-* Missä näet itsesi viiden vuoden päästä? Kaikkien paskojen työhaastattelukysymysten äiti. Ei tähän tiedä kukaan oikeaa vastausta, ja yleensä hakija vastaa tähän sen mitä kuvittelee haastatteli(jan|joiden) haluavan kuulla. Eli saat vastaukseksi jonkinlaisen hätävalheen siitä, että kyllä kyllä, yritän pyrkiä urallani eteenpäin, kolmen vuoden päästä olen ehkä arkkitehti ja kuuden vuoden päästä projektipäällikkö ja kymmenen vuoden päästä ylimmässä johdossa.
+* _Missä näet itsesi viiden vuoden päästä?_ Kaikkien paskojen työhaastattelukysymysten äiti. Ei tähän tiedä kukaan oikeaa vastausta, ja yleensä hakija vastaa tähän sen mitä kuvittelee haastatteli(jan|joiden) haluavan kuulla. Eli saat vastaukseksi jonkinlaisen hätävalheen siitä, että kyllä kyllä, yritän pyrkiä urallani eteenpäin, kolmen vuoden päästä olen ehkä arkkitehti ja kuuden vuoden päästä projektipäällikkö ja kymmenen vuoden päästä ylimmässä johdossa. Vaikka oikeasti haluaisinkin vain koodata.
 * Melkein kaikki suljetut kysymykset
 * Melkein kaikki hyökkäävät kysymykset
 
 === Asioita, joita ei saa kysyä
 
-* Poliittiset mielipiteet tai poliittinen toiminta
+* Poliittiset mielipiteet tai poliittinen toiminta.
 * Armeijan käyminen/asevelvollisuuden suorittaminen muuten kuin yleisellä tasolla, eli onko vielä asevelvollisuuden suorittaminen edessä (tämä saattaa tulla joskus vastaan erityisen nuorten työnhakijoiden kanssa). Ei saa kysyä, kävikö intin vai sivarin vai totaalin vai saiko vapautuksen.
-* Mahdolliset perheenlisäyssuunnitelmat. Yleensä ei kannata nykyisten lasten olemassaolosta ja määrästäkään kysyä mitään, ellei hakija oma-aloitteisesti kerro. Se ei ole IMHO laissa kiellettyä, mutta pidän sitä mauttomana. 
-* Seksuaalinen suuntautuminen
-* Ammattiliiton jäsenyys
+* Mahdolliset perheenlisäyssuunnitelmat. Yleensä ei kannata nykyisten lasten olemassaolosta ja määrästäkään kysyä mitään, ellei hakija oma-aloitteisesti kerro. Se ei ole käsittääkseni laissa kiellettyä, mutta pidän sitä mauttomana. 
+* Seksuaalinen suuntautuminen.
+* Ammattiliiton jäsenyys.
+* Uskonnollinen vakaumus tai sellaisen puuttuminen.
 
+Toki näistäkin asioista voi keskustella, jos hakija itse tekee aloitteen siihen. Silloin hän ikään kuin antaa luvan jutella siitä "kielletystä aiheesta" jonka itse otti puheeksi. Muut listatut aiheet pysyvät yhtä tabuina kuin aina ennenkin.
 
+=== Asiat, jotka on pakko kysyä
+
+Nämä minä pyrin yleensä hoitamaan haastattelun loppupuolella.
+
+* Palkkatoive e/kk
+* Milloin pystyisi aloittamaan työt
 
 <<<
 
@@ -215,7 +223,7 @@ WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaihee
 
 <<<
 
-=== Työhaastattelun etiikka
+== Työhaastattelun etiikka
 
 <<<
 
