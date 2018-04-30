@@ -5,7 +5,7 @@
 :front-cover-image: images/tyohaastattelukirja_kansikuva.png
 :pdf-page-size: [148mm, 210mm]
 
-_Omistettu Hannu Terävälle, Reaktorin CTO:lle, jolta opin kaiken oleellisen työhaastattelun pitämisestä._
+_Omistettu Hannu Terävälle, jolta opin kaiken oleellisen työhaastattelun pitämisestä._
 [.text-right]
 _- Ville Peurala (Kukko)_
 
@@ -88,11 +88,17 @@ Haastattelun alussa haastattelijat esittäytyvät. Kannattaa kertoa jotain henki
 Esimerkiksi minä esittäydyn nykyään suunnilleen näin:
 
 .Esimerkki esittäytymisestä, Kukko:
-Moi. Olen Ville Peurala, Wunderdog-lempinimeltäni Kukko, Wunderdogin CTO ja yksi firman perustajista. Teen edelleen laskutettavaa työtä asiakkailla noin neljä päivää viikossa, ja yhden päivän käytän firman hallinnollisiin asioihin. Asun Vallilassa, kotona minulla on vaimo ja nelivuotias tytär. Harrastan musiikin tekemistä, teen sitä sekä yksin tietokoneella että soitan bändissä.
+> Moi. Olen Ville Peurala, Wunderdog-lempinimeltäni Kukko, Wunderdogin CTO ja yksi firman perustajista. Teen edelleen laskutettavaa työtä asiakkailla noin neljä päivää viikossa, ja yhden päivän käytän firman hallinnollisiin asioihin. Asun Vallilassa, kotona minulla on vaimo ja nelivuotias tytär. Harrastan musiikin tekemistä, teen sitä sekä yksin tietokoneella että soitan bändissä.
 
 <<<
 
 == Työhaastattelun rakenne
+
+=== Kokonaiskesto
+
+Hyvä työhaastattelu kestää tunnista puoleentoista tuntiin. Viimeistään puolentoista tunnin kohdalla kannattaa kääräistä homma pakettiin ja saatella hakija ystävällisesti ulos. Jotkut hakijat haluaisivat jäädä juttelemaan vielä paljon pitemmäksi aikaa, mutta puolessatoista tunnissa ehtii kyllä varsin hyvin saamaan hakijasta riittävän kuvan, että tietää ehdotetaanko jatkoa vai ei. Turha mukavien juttelu ei ole kovin tehokasta ajankäyttöä; jos hakija on puheliasta tyyppiä, niin pieni rupattelu varsinaisen haastatteluosuuden jälkeen on ok, mutta ei kannata jäädä jutustelemaan tuntikausiksi. Yli kahden tunnin työhaastattelu on yleensä ajanhukkaa kaikille osapuolille.
+
+Kun haastattelu loppuu, on oleellista ohjata hakija sen verran nopeasti ulos, että haastattelijat pääsevät purkamaan muistiinpanoja ja vaihtamaan mielipiteitä niin kauan kuin haastattelu on vielä tuoreessa muistissa. Monet asiat unohtuvat nopeasti.
 
 <<<
 
