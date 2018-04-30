@@ -12,6 +12,7 @@ _Omistettu Hannu Terävälle, jolta opin kaiken oleellisen työhaastattelun pit�
 [.text-right]
 _- Ville Peurala (Kukko)_
 
+[discrete]
 == Alkusanat
 
 Olen pitänyt varmaan jotain ~500 teknistä työhaastattelua, joista ehkä ~300 Reaktorilla ja ~200 Wunderdogilla. En tiedä työhaastattelun pitämisestä kaikkea, mutta tiedän perusjutut. Tässä oppaassa olen yrittänyt tiivistää ne mahdollisimman tiukkaan pakettiin, jotta työhaastattelua ensimmäistä kertaa pitävä ei joutuisi tekemään niitä samoja virheitä, joita itse olen tehnyt.
@@ -170,17 +171,35 @@ Hyvä kysymys:
 * Mikä on riittävä määrä testausta?
 * Millainen on hyvä tiimi?
 * Millainen on hyvä koodaaja?
-* Jos joku kaverisi, joka ei osaa koodata vielä yhtään, kysyisi sinulta neuvoja miten tullaan hyväksi koodaajaksi, niin mitä sanoisit?
+* Jos lapsi tulisi kysymään sinulta, miten tullaan hyväksi koodaajaksi, niin mitä vastaisit?
+* Jos aikuinen kaverisi, joka ei osaa koodata vielä yhtään, kysyisi sinulta neuvoja miten tullaan hyväksi koodaajaksi, niin mitä sanoisit?
 * Millainen on hyvä CI-järjestely projektissa?
 * Millainen on hyvä PO?
 * Millaisen roolin yleensä itse otat tiimissä?
 * Millaista hommaa teet nykyisessä työssäsi? (olettaen, että sellainen on)
-
-
+* Millainen musiikkimaku sinulla on?
+* Mikä on paras lukemasi koodausaiheinen kirja?
+* Mitä ajattelet funktionaalisen ja oliopohjaisen paradigman suhteesta toisiinsa?
+* Mikä on paras lukemasi romaani?
+* Mikä on kaikkein parasta funktionaalisessa ohjelmoinnissa?
+* Mikä on suosikkiohjelmointikielesi?
+* Mitä kaikkia asioita ja toisia teknologioita sinun mielestäsi kuuluu teknologian X ekosysteemiin?
+* Mitä tekisit, jos sinulla olisi töissä kaksi viikkoa täysin vapaata aikaa uusien asioiden treenaamiseen ja itsesi kehittämiseen? Eli jos sinulla ei olisi projektia? 
 
 === Huonoja kysymyksiä
+* Missä näet itsesi viiden vuoden päästä? Kaikkien paskojen työhaastattelukysymysten äiti. Ei tähän tiedä kukaan oikeaa vastausta, ja yleensä hakija vastaa tähän sen mitä kuvittelee haastatteli(jan|joiden) haluavan kuulla. Eli saat vastaukseksi jonkinlaisen hätävalheen siitä, että kyllä kyllä, yritän pyrkiä urallani eteenpäin, kolmen vuoden päästä olen ehkä arkkitehti ja kuuden vuoden päästä projektipäällikkö ja kymmenen vuoden päästä ylimmässä johdossa.
+* Melkein kaikki suljetut kysymykset
+* Melkein kaikki hyökkäävät kysymykset
 
 === Asioita, joita ei saa kysyä
+
+* Poliittiset mielipiteet tai poliittinen toiminta
+* Armeijan käyminen/asevelvollisuuden suorittaminen muuten kuin yleisellä tasolla, eli onko vielä asevelvollisuuden suorittaminen edessä (tämä saattaa tulla joskus vastaan erityisen nuorten työnhakijoiden kanssa). Ei saa kysyä, kävikö intin vai sivarin vai totaalin vai saiko vapautuksen.
+* Mahdolliset perheenlisäyssuunnitelmat. Yleensä ei kannata nykyisten lasten olemassaolosta ja määrästäkään kysyä mitään, ellei hakija oma-aloitteisesti kerro. Se ei ole IMHO laissa kiellettyä, mutta pidän sitä mauttomana. 
+* Seksuaalinen suuntautuminen
+* Ammattiliiton jäsenyys
+
+
 
 <<<
 
@@ -196,14 +215,10 @@ Hyvä kysymys:
 
 <<<
 
-== Toisen ihmisen tunteiden manipulointi
-
-=== Milloin se on eettisesti hyväksyttävää, milloin ei
+=== Työhaastattelun etiikka
 
 <<<
 
 == Loppusanat
 
-_Nyt kuolette, sanoi Pekka._
-
-Se oli *Tuonelan tarharetki*.
+<<<
