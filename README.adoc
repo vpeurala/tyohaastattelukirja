@@ -5,6 +5,10 @@
 :front-cover-image: images/tyohaastattelukirja_kansikuva.png
 :pdf-page-size: [148mm, 210mm]
 
+_Omistettu Hannu Terävälle, Reaktorin CTO:lle, jolta opin kaiken oleellisen työhaastattelun pitämisestä._
+[.text-right]
+_- Ville Peurala (Kukko)_
+
 == Alkusanat
 
 Olen pitänyt varmaan jotain ~500 teknistä työhaastattelua, joista ehkä ~300 Reaktorilla ja ~200 Wunderdogilla. En tiedä työhaastattelun pitämisestä kaikkea, mutta tiedän perusjutut. Tässä oppaassa olen yrittänyt tiivistää ne mahdollisimman tiukkaan pakettiin, jotta työhaastattelua ensimmäistä kertaa pitävä ei joutuisi tekemään niitä samoja virheitä, joita itse olen tehnyt.
@@ -61,13 +65,28 @@ Huoneiden varaus tapahtuu Google Calendarin kautta. Kannattaa yleensä varata ty
 
 Haastattelussa kannattaa istuttaa hakija niin, että hänen selkänsä osoittaa toimistolle (ts. ovelle) päin. Tällä tavalla hän ei häiriinny toimiston vilinän näkemisestä.
 
+Luonnollinen paikka haastattelijoille on tietysti pöydän toisella puolella, hakijaa vastapäätä.
+
 === Hakijan vastaanottaminen
 
+Avaa ovi. Kättele. Yritä muistaa katsoa silmiin ja hymyillä, kun kättelet, vaikka se onkin vaikeaa - unohtuu minultakin joskus.
 
+Kysy, haluaako hakija jotain juotavaa (kahvia, vettä, cokista, energiajuomaa tms.)
 
-=== Ensivaikutelman luominen
+Johdata hakija huoneeseen, jossa työhaastattelu tapahtuu.
+
+=== Älä multitaskaa, se ei onnistu
+
+Keskity työhaastatteluun sataprosenttisesti. Laita puhelin kiinni haastattelun ajaksi. Jos sinulla on läppäri, älä lue maileja tai Slackia haastattelun aikana. Muiden asioiden tekeminen samaan aikaan antaa ensinnäkin epäammattimaisen ja epäkohteliaan vaikutelman; toisekseen, se saattaa aiheuttaa sen, että sinulta menee ohi joku haastattelun kannalta oleellinen asia. On tosi noloa joutua sanomaan "anteeksi, voisitko toistaa äskeisen, en kuunnellut". Vielä nolompaa on päästää joku asia ohi korvien kokonaan.
 
 === Esittäytyminen
+
+Haastattelun alussa haastattelijat esittäytyvät. Kannattaa kertoa jotain henkilökohtaista itsestään, esim. perheestä tai harrastuksista; se tekee sinusta hakijan silmissä ihmisen eikä vain kasvotonta rekrybottia.
+
+Esimerkiksi minä esittäydyn nykyään suunnilleen näin:
+
+.Esimerkki esittäytymisestä, Kukko:
+Moi. Olen Ville Peurala, Wunderdog-lempinimeltäni Kukko, Wunderdogin CTO ja yksi firman perustajista. Teen edelleen laskutettavaa työtä asiakkailla noin neljä päivää viikossa, ja yhden päivän käytän firman hallinnollisiin asioihin. Asun Vallilassa, kotona minulla on vaimo ja nelivuotias tytär. Harrastan musiikin tekemistä, teen sitä sekä yksin tietokoneella että soitan bändissä.
 
 <<<
 
