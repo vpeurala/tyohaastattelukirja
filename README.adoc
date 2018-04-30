@@ -6,6 +6,7 @@
 :pdf-page-size: [148mm, 210mm]
 :author: Ville Peurala (Kukko)
 :email: ville.peurala@wunderdog.fi
+:sectnums:
 
 _Omistettu Hannu Terävälle, jolta opin kaiken oleellisen työhaastattelun pitämisestä._
 [.text-right]
