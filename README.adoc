@@ -158,7 +158,7 @@ WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaihee
 
 === Hyviä kysymyksiä
 
-Hyvä kysymys:
+.Hyvä kysymys:
 * on lähes aina tyypiltään avoin kysymys
 * luo pohjaa jatkokeskustelulle
 * siinä kysytään vain yhtä asiaa
