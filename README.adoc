@@ -69,13 +69,17 @@ Haastattelussa kannattaa istuttaa hakija niin, että hänen selkänsä osoittaa 
 
 Luonnollinen paikka haastattelijoille on tietysti pöydän toisella puolella, hakijaa vastapäätä.
 
+=== Lyhyt läpikäynti haastattelijoiden kesken ennen haastattelua
+
+Ennen kuin hakija saapuu paikalle, haastattelijoiden on hyvä ottaa keskenään noin vartin sessio, jossa tsekataan hakijan CV ja edellisen kierroksen muistiinpanot, ja mietitään mitä kaikkia asioita hakijasta olisi oleellisinta selvittää. Mikäli toinen haastattelijoista on kokemattomampi, voidaan tässä vaiheessa vielä käydä kertauksenomaisesti läpi tässäkin kirjassa mainittuja perusasioita. Roolijako kannattaa sopia viimeistään tässä vaiheessa eksplisiittisesti.
+
 === Hakijan vastaanottaminen
 
 Avaa ovi. Kättele. Yritä muistaa katsoa silmiin ja hymyillä, kun kättelet, vaikka se onkin vaikeaa - unohtuu minultakin joskus.
 
 Kysy, haluaako hakija jotain juotavaa (kahvia, vettä, cokista, energiajuomaa tms.)
 
-Johdata hakija huoneeseen, jossa työhaastattelu tapahtuu.
+Johdata hakija huoneeseen, jossa työhaastattelu tapahtuu. Osoita hänelle oikea tuoli.
 
 === Älä multitaskaa, se ei onnistu
 
