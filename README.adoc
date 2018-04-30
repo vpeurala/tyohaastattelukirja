@@ -104,6 +104,29 @@ Hyvä työhaastattelu kestää tunnista puoleentoista tuntiin. Viimeistään puo
 
 Kun haastattelu loppuu, on oleellista ohjata hakija sen verran nopeasti ulos, että haastattelijat pääsevät purkamaan muistiinpanoja ja vaihtamaan mielipiteitä niin kauan kuin haastattelu on vielä tuoreessa muistissa. Monet asiat unohtuvat nopeasti.
 
+=== "Tauko" on tärkeä
+
+Suunnilleen puoleen väliin työhaastattelua kannattaa ottaa jokin sellainen tehtävä, jota hakija jää tekemään yksin ja haastattelijat pääsevät siksi aikaa "tauolle". Lainausmerkit siksi, että "tauko" ei oikeasti ole tauko, vaan tärkeää aikaa joka kannattaa käyttää tehokkaasti. "Tauon" aikana haastattelijat synkkaavat fiilikset ja miettivät, mitä pitäisi vielä kysyä ennen kuin vedetään homma pakettiin.
+
+Se tehtävä, jota hakija jää tekemään siksi aikaa kun haastattelijat menevät pois huoneesta, on yleensä code review -tehtävä, mutta voi se olla jotain muutakin.
+
+Tauolla kannattaa miettiä vastaukset seuraaviin kysymyksiin:
+
+* Mitkä ovat haastattelijoiden yleisfiilikset hakijasta - peukku alas vai ylös?
+** Mieti sellaisia asioita, jotka saattaisivat kääntää mielipiteen. Eli:
+** Jos peukku nyt alas, niin mikä olisi sellainen tieto hakijasta joka saattaisi vielä kääntää sen ylös? Mitä sellaista voisit kysyä, missä hakija pääsisi loistamaan?
+** Jos peukku nyt ylös, niin vastaavasti: mikä olisi sellainen tieto hakijasta joka kääntäisi sen alas? Mitä sellaista hakijasta voisi paljastua, joka johtaisi siihen että häntä ei haluta palkata Wunderdogille? Millä kysymyksillä sen saisi selville?
+* Mitä kysytään vielä
+* Mitä kerrotaan vielä
+
+=== Hyviä kysymyksiä itsellesi fiiliksen mittaamiseen
+
+Hyvä mittapuu sille, miten paljon pidät hakijasta ihmisenä, on kysyä itseltäsi seuraavat kysymykset:
+
+. Projektitesti: Jos tämä hakija tulisi tekemään töitä samaan projektiin sinun kanssasi, niin olisiko se kiva vai kurja juttu?
+. Kaljatesti: Jos menisit tämän hakijan kanssa kaljalle työpäivän päätteeksi, niin olisiko se kivaa vai vaivaannuttavaa?
+. Hotellihuonetesti: Jos hakija olisi sinun huonekaverisi koulutusmatkalla (eli viettäisitte pitkän viikonlopun samassa hotellihuoneessa), niin olisiko se kiva vai ahdistava ajatus?
+
 <<<
 
 == Erilaisia kysymyksiä
