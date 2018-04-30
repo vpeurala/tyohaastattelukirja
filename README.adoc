@@ -34,8 +34,8 @@ Toiseksi tärkeintä on jättää kaikille osapuolille hyvä fiilis keskustelust
 
 Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja *lautturi*, ja näistä on hyvä sopia etukäteen. Kiitokset **Valde**lle näistä erinomaisista termeistä. Yleensä joku viisikosta on *luotsi* ja joku Wunderdogin koodaaja *lautturi*. Tehtävät ovat seuraavanlaiset:
 
-* Luotsi: Ohjailee keskustelun suuria linjoja. Toimii ikään kuin keskustelun puheenjohtajana. Päättää keskustelun kun on sen aika.
-* Lautturi: Tarkkailee tilannetta ja kuuntelee tarkasti hakijan vastauksia. Esittää lisäkysymyksiä. Pyrkii pitämään keskustelun käynnissä.
+Luotsi:: Ohjailee keskustelun suuria linjoja. Toimii ikään kuin keskustelun puheenjohtajana. Päättää keskustelun kun on sen aika.
+Lautturi:: Tarkkailee tilannetta ja kuuntelee tarkasti hakijan vastauksia. Esittää lisäkysymyksiä. Pyrkii pitämään keskustelun käynnissä.
 
 === Muistiinpanot
 
@@ -126,9 +126,9 @@ Tauolla kannattaa miettiä vastaukset seuraaviin kysymyksiin:
 
 Hyvä mittapuu sille, miten paljon pidät hakijasta ihmisenä, on kysyä itseltäsi seuraavat kysymykset:
 
-. Projektitesti: Jos tämä hakija tulisi tekemään töitä samaan projektiin sinun kanssasi, niin olisiko se kiva vai kurja juttu?
-. Kaljatesti: Jos menisit tämän hakijan kanssa kaljalle työpäivän päätteeksi, niin olisiko se kivaa vai vaivaannuttavaa?
-. Hotellihuonetesti: Jos hakija olisi sinun huonekaverisi koulutusmatkalla (eli viettäisitte pitkän viikonlopun samassa hotellihuoneessa), niin olisiko se kiva vai ahdistava ajatus?
+Projektitesti:: Jos tämä hakija tulisi tekemään töitä samaan projektiin sinun kanssasi, niin olisiko se kiva vai kurja juttu?
+Kaljatesti:: Jos menisit tämän hakijan kanssa kaljalle työpäivän päätteeksi, niin olisiko se kivaa vai vaivaannuttavaa?
+Hotellihuonetesti:: Jos hakija olisi sinun huonekaverisi koulutusmatkalla (eli viettäisitte pitkän viikonlopun samassa hotellihuoneessa), niin olisiko se kiva vai ahdistava ajatus?
 
 Kun saat itseltäsi vastaukset näihin kysymyksiin, niin mieti, miksi näin. Mitä mahdollisia ongelmia projektin tekemisessä yhdessä voisi tulla? Miten saisit ne selville haastattelun aikana? Mistä te todennäköisesti juttelisitte, jos menisitte kaljalle? Mitä todennäköisesti puuhailisitte, jos teillä olisi yhteinen hotellihuone? Mieti, mistä se fiilis tulee, joka sinulla on. Joskus se on pelkkää intuitiota eikä sitä pysty perustelemaan järjellä, mutta usein pystyy kun miettii hetken.
 
@@ -148,17 +148,35 @@ Hyökkääviä kysymyksiä kannattaa käyttää vain hyvin harvoin. Silloin, kun
 
 Hyökkäävän kysymyksen tunnistaa siitä, että siihen voi vastata vain oikein tai väärin. Tällaiset kysymykset tuottavat usein hakijalle epämukavan tunteen. Hyökkäävässä kysymyksessä hakijan ammattitaito kyseenalaistetaan.
 
-Esimerkkejä hyökkäävistä kysymyksistä:
-
-_"Mikä on Jakarta Strutsissa se kantaluokka josta kaikkien controllereiden pitää periytyä?"_
-
-_"Oletko ahkera ja luotettava?"_
-
-_"Osaisitko pystyttää yksin keskisuuren yrityksen sisäverkon?"_
+.Esimerkkejä hyökkäävistä kysymyksistä:
+* _"Mikä on Jakarta Strutsissa se kantaluokka josta kaikkien controllereiden pitää periytyä?"_
+* _"Oletko ahkera ja luotettava?"_
+* _"Osaisitko pystyttää yksin keskisuuren yrityksen sisäverkon?"_
 
 WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaiheessa kun sanoo sen. Vasta jälkikäteen (toivottavasti) ymmärtää tehneensä virheen, ja välttää saman virheen tekemistä jatkossa.
 
 === Hyviä kysymyksiä
+
+Hyvä kysymys:
+* on lähes aina tyypiltään avoin kysymys
+* luo pohjaa jatkokeskustelulle
+* siinä kysytään vain yhtä asiaa
+* siitä syntyy luonnostaan jatkokysymyksiä
+* se antaa mahdollisuuden liikkua eri abstraktiotasojen välillä vastauksessa ja jatkokeskustelussa
+
+.Esimerkkejä hyväksi havaituista työhaastattelukysymyksistä:
+* Mitä oleellisia käytännön eroja ohjelmointikielillä X ja Y on? (olettaen, että hakija on kertonut osaavansa niitä molempia)
+* Mikä on filosofiasi testauksen suhteen?
+* Mikä on riittävä määrä testausta?
+* Millainen on hyvä tiimi?
+* Millainen on hyvä koodaaja?
+* Jos joku kaverisi, joka ei osaa koodata vielä yhtään, kysyisi sinulta neuvoja miten tullaan hyväksi koodaajaksi, niin mitä sanoisit?
+* Millainen on hyvä CI-järjestely projektissa?
+* Millainen on hyvä PO?
+* Millaisen roolin yleensä itse otat tiimissä?
+* Millaista hommaa teet nykyisessä työssäsi? (olettaen, että sellainen on)
+
+
 
 === Huonoja kysymyksiä
 
