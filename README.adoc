@@ -132,6 +132,8 @@ Johdata hakija huoneeseen, jossa työhaastattelu tapahtuu. Osoita hänelle oikea
 
 Keskity työhaastatteluun sataprosenttisesti. Laita puhelin kiinni haastattelun ajaksi. Jos sinulla on läppäri, älä lue maileja tai Slackia haastattelun aikana. Muiden asioiden tekeminen samaan aikaan antaa ensinnäkin epäammattimaisen ja epäkohteliaan vaikutelman; toisekseen, se saattaa aiheuttaa sen, että sinulta menee ohi joku haastattelun kannalta oleellinen asia. On tosi noloa joutua sanomaan "anteeksi, voisitko toistaa äskeisen, en kuunnellut". Vielä nolompaa on päästää joku asia ohi korvien kokonaan.
 
+Ihminen ei pysty keskittymään moneen asiaan samaan aikaan. Älä edes yritä.
+
 === Esittäytyminen
 
 Haastattelun alussa haastattelijat esittäytyvät. Kannattaa kertoa jotain henkilökohtaista itsestään, esim. perheestä tai harrastuksista; se tekee sinusta hakijan silmissä ihmisen eikä vain kasvotonta rekrybottia.
@@ -191,22 +193,32 @@ Sitten kasataan muistiinpanot ja *luotsi* hoitaa homman eteenpäin.
 
 === Avoin kysymys
 
-Avoin kysymys on mukava ja rohkaisee keskusteluun. Avoimet kysymykset ovat ylivoimaisesti parhaita työhaastattelukysymyksiä lähes joka tilanteessa. On joitakin asioita, joihin ne eivät sovi, mutta näistä lisää myöhemmin.
+Avoin kysymys on sellainen, johon on mahdollista vastata vapaamuotoisesti. Toisin sanoen avoimia kysymyksiä ovat kaikki sellaiset kysymykset, jotka eivät ole suljettuja kysymyksiä (niistä lisää kohta).
+
+Avoin kysymys rohkaisee vapaaseen keskusteluun ja tuntuu yleensä hakijasta mukavalta. Avoimet kysymykset ovat ylivoimaisesti parhaita työhaastattelukysymyksiä lähes joka tilanteessa. On joitakin asioita, joihin ne eivät sovi, mutta näistä lisää myöhemmin.
 
 === Suljettu kysymys
+
+Suljettu kysymys on sellainen, jonka vastausvaihtoehdot on jotenkin rajattu tiettyyn joukkoon. Klassinen esimerkki suljetusta kysymyksestä on sellainen, johon voi vastata vain myöntävästi tai kieltävästi, eli kyllä tai ei. Esimerkiksi: "Käytätkö TDD:tä?"
+
+On hyvä huomata, että suljettuja kysymyksiä on muitakin kuin "kyllä tai ei"-tyyppiset kysymykset. Vaikkapa: "Mikä on paras: Python, Ruby vai Perl?"
+
+Suljetut kysymykset ovat yleensä työhaastattelussa huonoja. Ne tuottavat yleensä lyhyen vastauksen ja katkaisevat keskustelun ikävästi, jolloin haastattelijoiden vastuulle jää saada keskustelu uudelleen käyntiin. Liiallinen suljettujen kysymysten käyttö johtaa siihen, että työhaastattelu alkaa muistuttaa poliisikuulustelua. Sellaisesta ei hakijalle jää hyvä fiilis.
+
+On myös hyvä tiedostaa, että kokematon haastattelija saattaa vahingossa muuttaa avoimen kysymyksen suljetuksi antamalla turhaan valmiit vastausvaihtoehdot. Vaikkapa: "Millä kielellä teet mieluiten shelliskriptausta? __(tähän asti avoin kysymys)__ Pythonilla, Rubylla vai Perlillä? __(kosh: muutit juuri kysymyksen suljetuksi)__".
 
 === Hyökkäävä kysymys
 
 Hyökkääviä kysymyksiä kannattaa käyttää vain hyvin harvoin. Silloin, kun käyttää, on hyvä olla siitä itse tietoinen. Näitä tulee välillä vahingossa kokeneellekin työhaastattelijalle.
 
-Hyökkäävän kysymyksen tunnistaa siitä, että siihen voi vastata vain oikein tai väärin. Tällaiset kysymykset tuottavat usein hakijalle epämukavan tunteen. Hyökkäävässä kysymyksessä hakijan ammattitaito kyseenalaistetaan.
+Hyökkäävän kysymyksen tunnistaa siitä, että siihen voi vastata vain oikein tai väärin. Tällaiset kysymykset tuottavat usein hakijalle epämukavan tunteen. Hyökkäävässä kysymyksessä hakijan ammattitaito implisiittisesti kyseenalaistetaan, koska oletetaan että hän voi vastata kysymykseen väärin.
 
 .Esimerkkejä hyökkäävistä kysymyksistä:
 * _"Mikä on Jakarta Strutsissa se kantaluokka josta kaikkien controllereiden pitää periytyä?"_
 * _"Oletko ahkera ja luotettava?"_
 * _"Osaisitko pystyttää yksin keskisuuren yrityksen sisäverkon?"_
 
-WARNING: Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaiheessa kun sanoo sen. Vasta jälkikäteen (toivottavasti) ymmärtää tehneensä virheen, ja välttää saman virheen tekemistä jatkossa.
+Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaiheessa kun päästää sen suustaan. Vasta jälkikäteen (toivottavasti) ymmärtää tehneensä virheen, ja välttää saman virheen tekemistä jatkossa.
 
 === Hyviä kysymyksiä
 
@@ -260,10 +272,6 @@ Nämä minä pyrin yleensä hoitamaan haastattelun loppupuolella.
 
 * Palkkatoive e/kk
 * Milloin pystyisi aloittamaan työt
-
-<<<
-
-== Ruumiinkieli
 
 <<<
 
