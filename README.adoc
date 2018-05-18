@@ -15,13 +15,13 @@
 [discrete]
 == Alkusanat
 
-Olen pitänyt varmaan jotain ~500 teknistä työhaastattelua, joista ehkä ~300 Reaktorilla ja ~200 Wunderdogilla. En tiedä työhaastattelun pitämisestä kaikkea, mutta tiedän perusjutut. Tässä oppaassa olen yrittänyt tiivistää ne mahdollisimman tiukkaan pakettiin, jotta työhaastattelua ensimmäistä kertaa pitävä ei joutuisi tekemään niitä samoja virheitä, joita itse olen tehnyt.
+Olen pitänyt suunnilleen 500 työhaastattelua, joista noin 350 Reaktorilla ja noin 150 Wunderdogilla. En tiedä työhaastattelun pitämisestä kaikkea, mutta tiedän perusjutut. Tässä oppaassa olen yrittänyt tiivistää ne mahdollisimman tiukkaan pakettiin, jotta työhaastattelua ensimmäistä kertaa pitävä ei joutuisi tekemään samoja virheitä, jotka itse olen tehnyt.
 
-Tässä oppaassa keskitytään lähinnä ns. tekniseen kierrokseen, joka on Wunderdogin perusrekrykuviossa yleensä toinen kierros. Homma menee yleensä näin:
+Tässä oppaassa keskitytään lähinnä ns. tekniseen kierrokseen, joka on Wunderdogin rekrykaavassa yleensä toinen kierros. Homma menee yleensä näin:
 
-. Ensimmäinen kierros: tsekataan persoonaa, soveltuuko työyhteisöön, vaikuttaako halukkaalta oppimaan ja kehittymään, jne. Tämän pitää yleensä *Mobu*.
-. Toinen kierros: tekninen työhaastattelu. Tähän keskitytään tässä oppaassa. Pitäjät yleensä: joku viisikosta *luotsina* ja joku Wunderdogin koodaaja *lautturina*.
-. Kolmas kierros: käytännön asioista, kuten palkasta ja töiden aloittamisesta, sopiminen. Tämänkin pitää yleensä *Mobu*.
+. Ensimmäinen kierros: Ns. yleistsekkaus. Katsotaan persoonaa, soveltuuko työyhteisöön, vaikuttaako halukkaalta oppimaan ja kehittymään, jne. perusjuttuja. Tämän pitää yleensä *Mobu*.
+. Toinen kierros: Tekninen työhaastattelu. Tähän keskitytään tässä oppaassa. Pitäjät yleensä: joku viisikosta *luotsina* ja joku Wunderdogin koodaaja *lautturina*.
+. Kolmas kierros: Käytännön asioista, kuten palkasta ja töiden aloittamisesta, sopiminen. Tämänkin pitää yleensä *Mobu*.
 
 Kaikki tämän oppaan neuvot ovat vain ohjeellisia! Jos sinusta tuntuu, että joku sanottava asia ei sovi sinun suuhusi, niin älä sano sitä. On tärkeää pitää keskustelu kaikille osapuolille luontevana.
 
@@ -38,23 +38,31 @@ Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja 
 Luotsi:: Ohjailee keskustelun suuria linjoja. Toimii ikään kuin keskustelun puheenjohtajana. Päättää keskustelun kun on sen aika.
 Lautturi:: Tarkkailee tilannetta ja kuuntelee tarkasti hakijan vastauksia. Esittää lisäkysymyksiä. Pyrkii pitämään keskustelun käynnissä.
 
+Teknisen työhaastattelun voi pitää yksinkin, mutta suosittelen lämpimästi sen pitämistä parina aina kun mahdollista. Syitä tähän ovat ainakin seuraavat:
+
+* Yksin voi päätöstä olla vaikea muodostaa, kun ei ole ketään kenen kanssa pallotella ajatuksia.
+* Muistiinpanojen tekeminen on helpompaa parina, kun toinen voi kirjoittaa silloin kun toinen puhuu.
+* Työhaastattelun pitäminen yksin on henkisesti raskasta, kun pitää koko ajan olla skarppina ja yksin vastuussa kaikesta.
+* On hyvä, että mahdollisimman moni Wunderdogin työntekijä kerää kokemusta työhaastattelujen pitämisestä. Tämä mahdollistaa sen, että firman kasvaessa ja työhaastattelujen lisääntyessä viisikon kuormitusta on mahdollista purkaa useammalle ihmiselle.
+* On hyvä, että hakija tapaa rekrytointiprosessin aikana muitakin ihmisiä kuin "pomoja".
+
 === Muistiinpanojen tekeminen
 
-On yleensä järkevintä, että *lautturilla* on mukanaan läppäri, jolla hän tekee muistiinpanoja, ja *luotsilla* on kynä ja paperia. Lopuksi tehdään yhteenveto muistiinpanoista.
+On yleensä järkevintä, että *lautturilla* on mukanaan läppäri, jolla hän tekee muistiinpanoja, ja *luotsilla* on kynä ja paperia. Lopuksi tehdään yhdessä yhteenveto muistiinpanoista.
 
 Muistiinpanojen tekemisessä kannattaa käyttää tervettä järkeä. Kaikkia pikkunippeliasioita ei tarvitse kirjata ylös. Sellaiset asiat kannattaa kirjata ylös, jotka:
 
 * Vaikuttavat rekrypäätökseen, tai
 * Vaikuttavat hakijan tulevaan työnkuvaan Wunderdogilla mikäli hän päätyy WD:lle töihin, tai
-* Ovat muuten vaan erityisen mielenkiintoisia
+* Ovat muuten vaan erityisen mielenkiintoisia.
 
 Mikäli molemmilla haastattelijoilla on läppäri mukanaan, on suositeltavaa, että vain toinen niistä on kerrallaan auki. Vähintään toisella haastattelijoista pitäisi olla koko ajan suora katse- ja kehonkielikontakti hakijaan, ja auki oleva läppäri katkaisee sen aika tehokkaasti.
 
 === Muistiinpanojen jälkikäsittely
 
-Mielellään heti haastattelun jälkeen *luotsi* puhtaaksikirjoittaa muistiinpanot ja postaa ne Slackin suljetulle kanavalle, jossa firman johto miettii rekrypäätöksiä.
+Mielellään heti haastattelun jälkeen *luotsi* puhtaaksikirjoittaa muistiinpanot ja postaa ne Slackin suljetulle kanavalle, jossa WD:n johto (eli viisikko) miettii rekrypäätöksiä.
 
-Tämä kannattaa tehdä heti, kun haastattelu on ohi, jos vain mitenkään mahdollista. Silloin vielä muistaa mihin asiaan mikin ranskalainen viiva muistiinpanoissa viittaa.
+Tämä kannattaa tehdä heti, kun haastattelu on ohi, jos vain mitenkään mahdollista. Silloin vielä muistaa mihin asiaan mikäkin ranskalainen viiva muistiinpanoissa viittaa. Ihminen unohtaa asioita yllättävän nopeasti, myös sinä.
 
 == Työhaastatteluun kutsuminen
 
@@ -64,6 +72,32 @@ Kutsu työhaastatteluun tapahtuu yleensä sähköpostitse. Muista kutsussa seura
 * Paikka, käytännössä aina Wunderdogin toimisto osoitteessa Mikonkatu 13 A, 4. kerros
 * Maininta siitä, että hakijan toivotaan tuovan koodinäyte mukanaan tai lähettävän sen etukäteen
 * Maininta siitä, että olisi hyvä jos hakijalla olisi mukanaan oma läppäri, josta hän voi esimerkiksi esitellä koodinäytettään (mielellään vielä kehitysympäristö valmiina)
+
+Itse käytän yleensä suunnilleen tällaista templatea:
+
+> From: ville.peurala@wunderdog.fi
+> To: tyon.hakija@osoite.fi
+> Cc: toinen.haastattelija@wunderdog.fi
+> Subject: Kutsu haastatteluun Wunderdogille ${ehdotettu haastatteluaika}
+> Moi ${hakijan etunimi},
+>
+> olitte keskustelleet ${kierroksen 1 haastattelijan} kanssa mahdollisesta työpaikasta Wunderdogilla. Meille jäi sinusta hyvä kuva ja haluaisimme jatkaa keskusteluita kanssasi.
+>
+> Haluaisin kutsua sinut hieman teknisempään haastatteluun. Sopiiko sinulle ${ehdotettu haastatteluaika}? Paikka on Wunderdogin toimisto osoitteessa Mikonkatu 13 A, 4. kerros.
+>
+> Mukaan haastatteluun tulee myös ${toisen haastattelijan nimi}.
+>
+> Osana haastattelua haluaisimme nähdä sinulta jonkinlaisen koodinäytteen, jota voimme käyttää keskustelun pohjana. Se voi olla omasta open source -projektista, jostakin työprojektista tai oikeastaan mistä tahansa - riittää, että se on sinun kirjoittamaasi koodia. Olisi hyvä, jos näyte olisi suhteellisen tuore, jos mahdollista, mutta vanhempikin käy. Käyttämäsi ohjelmointikieli voi olla mikä tahansa. Haastattelussa sitten keskustelemme tästä koodista, kyselemme tekemiesi design-ratkaisujen perusteista, mitä tekisit nyt toisin, jne. Voit lähettää koodinäytteen meille etukäteen tai tuoda sen mukanasi haastatteluun.
+>
+> Ota mielellään oma läppäri mukaan, jos mahdollista. Se helpottaa koodinäytteen esittelyä.
+>
+> Tervetuloa! Kuittaathan mahdollisimman pian, sopiiko ehdottamamme aika sinulle.
+>
+> Ystävällisin terveisin,
+>
+> Ville Peurala
+> Teknologiajohtaja
+> Wunderdog Oy
 
 <<<
 
