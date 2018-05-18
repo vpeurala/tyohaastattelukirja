@@ -277,23 +277,19 @@ Nämä minä pyrin yleensä hoitamaan haastattelun loppupuolella.
 
 == Päätöksenteko
 
-=== Ehto: molemminpuolinen hyöty
-
 Positiivinen rekrytointipäätös syntyy silloin, kun haastattelijat ovat sitä mieltä, että sekä hakijan että Wunderdogin etu olisi, että hakija tulisi töihin Wunderdogille. Win-win.
 
 Tämän jälkeenkään ei ole sanottu, että hakija välttämättä ottaisi työtarjousta vastaan. Koodaajien työmarkkinat ovat kuumat. On paljon sellaisia koodaajia, jotka joka ikinen tämän alan firma ottaisi jos vain saisi. Meidän rimamme on korkealla, ja niinpä ne koodaajat, jotka kelpaavat meille, kelpaavat useimmille muillekin alan firmoille.
 
-Jos me tarjoamme töitä jollekin mutta hän ei ota niitä vastaan, ei se ole katastrofi. Ei vaan myyty ihan tarpeeksi hyvin. Noita sattuu. Ensi kerralla vielä paremmin.
+Jos me tarjoamme töitä jollekin, mutta hän ei ota niitä vastaan, ei se ole katastrofi. Silloin ei vain myynnissä ole onnistuttu ihan tarpeeksi hyvin. Noita sattuu. Ensi kerralla vielä paremmin.
 
 <<<
 
 == Rekry on myös myyntiä
 
-Jokainen työhaastatteluun tulija ei välttämättä ole vielä varma, haluaako hän töihin Wunderdogille.
+Jokainen työhaastatteluun tulija ei välttämättä ole vielä varma, haluaako hän töihin Wunderdogille. Haastattelijoiden on huolehdittava siitä, että haastattelun lopussa hän haluaa.
 
-Työhaastattelun pitäjien on huolehdittava siitä, että haastattelun lopussa hän haluaa.
-
-Voi olla, että hakijaa ei siitä huolimatta palkata. Ei se mitään. Jos hakija on esimerkiksi vielä vähän liian kokematon Wunderdogille, voidaan sanoa että odotetaan vuosi tai pari ja katsotaan tilanne sitten. Joka tapauksessa pyritään siihen, että hakijalle jää hyvä vaikutelma Wunderdogissa ja hän pitää WD:tä tulevaisuudessa haluttavana työpaikkana.
+Voi olla, että hakijaa ei siitä huolimatta palkata. Ei se mitään. Jos hakija on esimerkiksi vielä vähän liian kokematon Wunderdogille, voidaan sanoa että odotetaan vuosi tai pari ja katsotaan tilanne sitten uudelleen. Joka tapauksessa on pyrittävä siihen, että hakijalle jää hyvä vaikutelma Wunderdogissa ja hän pitää WD:tä tulevaisuudessa haluttavana työpaikkana.
 
 <<<
 
@@ -301,12 +297,20 @@ Voi olla, että hakijaa ei siitä huolimatta palkata. Ei se mitään. Jos hakija
 
 Työhaastattelussa täytyy olla rehellinen ja luotettava. Jos hakija kertoo jonkin asian luottamuksellisesti, sen täytyy myös säilyä luottamuksellisena.
 
+Muista olla rehellinen, kun myyt Wunderdogia. Älä liioittele WD:n hyviä puolia äläkä jätä kertomatta WD:n huonoja puolia.
+
+Ole rehellinen kaikessa muussakin. Alan piirit ovat pienet ja epärehellisyys kostautuu varmasti myöhemmin.
+
 <<<
 
 == Loppusanat
 
-Työhaastatteluiden pitäminen on kovaa hommaa. Maksimi on yksi päivässä, enempää ei pysty 100% teholla. Rekry on nykyään softa-alan yritysten keskuudessa se tekijä joka määrää yrityksen koon; se ei enää ole myynti, kuten edellisten vuosisatojen aikana, vaan se on rekry. Joten se jos mikä on sellainen toiminto, joka pitää vetää 100% teholla.
+Työhaastatteluiden pitäminen on kovaa hommaa. Maksimi on yksi päivässä, enempää ei pysty 100% teholla tekemään.
 
-Työhaastattelun pitäminen on parhaimmillaan tosi hauskaa. Pahimmillaan todella tylsää ja ankeaa, jos hakija on sellainen että ensimmäisen minuutin aikana tietää lopputuloksen, mutta silti pitää kohteliaisuudesta istua vähintään puoli tuntia. Mutta kivoimmillaan tosi kivaa, silloin kun edessä on sellainen hakija josta on varma fiilis, että tämän tyypin minä haluan työkaveriksi.
+Rekrytointi on minun mielestäni nykyään useimpien softa-alan yritysten tärkein toiminto. Aikaisemmin kaikkien yritysten tärkeimpänä toimintona nähtiin myynti, alasta riippumatta, koska myynnin kehitys määritti sen, minkä kokoiseksi yritys voi kasvaa. Työntekijöistä ei yleensä ollut pulaa. Tämä on softa-alalla nykyään toisin päin, ainakin Suomen markkinoilla. Myynti on edelleen tärkeää, mutta osaavien tekijöiden saaminen yritykseen rajoittaa useimpien yritysten kokoa enemmän kuin asiakkaiden löytyminen.
+
+Eli työhaastatteluita ei voi pitää vasemmalla kädellä. Niihin pitää panostaa kunnolla.
+
+Työhaastattelun pitäminen on parhaimmillaan tosi hauskaa. Pahimmillaan se on todella tylsää ja ankeaa; jos hakija on sellainen, että ensimmäisen minuutin aikana tietää lopputuloksen, mutta silti pitää kohteliaisuudesta istua vähintään puoli tuntia. Mutta kivoimmillaan se on tosi kivaa; kun edessä on sellainen hakija, josta on varma fiilis, että tämän tyypin minä haluan työkaverikseni.
 
 <<<
