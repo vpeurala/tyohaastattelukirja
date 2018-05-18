@@ -75,29 +75,32 @@ Kutsu työhaastatteluun tapahtuu yleensä sähköpostitse. Muista kutsussa seura
 
 Itse käytän yleensä suunnilleen tällaista templatea:
 
-> From: ville.peurala@wunderdog.fi
-> To: tyon.hakija@osoite.fi
-> Cc: toinen.haastattelija@wunderdog.fi
-> Subject: Kutsu haastatteluun Wunderdogille ${ehdotettu haastatteluaika}
-> Moi ${hakijan etunimi},
->
-> olitte keskustelleet ${kierroksen 1 haastattelijan} kanssa mahdollisesta työpaikasta Wunderdogilla. Meille jäi sinusta hyvä kuva ja haluaisimme jatkaa keskusteluita kanssasi.
->
-> Haluaisin kutsua sinut hieman teknisempään haastatteluun. Sopiiko sinulle ${ehdotettu haastatteluaika}? Paikka on Wunderdogin toimisto osoitteessa Mikonkatu 13 A, 4. kerros.
->
-> Mukaan haastatteluun tulee myös ${toisen haastattelijan nimi}.
->
-> Osana haastattelua haluaisimme nähdä sinulta jonkinlaisen koodinäytteen, jota voimme käyttää keskustelun pohjana. Se voi olla omasta open source -projektista, jostakin työprojektista tai oikeastaan mistä tahansa - riittää, että se on sinun kirjoittamaasi koodia. Olisi hyvä, jos näyte olisi suhteellisen tuore, jos mahdollista, mutta vanhempikin käy. Käyttämäsi ohjelmointikieli voi olla mikä tahansa. Haastattelussa sitten keskustelemme tästä koodista, kyselemme tekemiesi design-ratkaisujen perusteista, mitä tekisit nyt toisin, jne. Voit lähettää koodinäytteen meille etukäteen tai tuoda sen mukanasi haastatteluun.
->
-> Ota mielellään oma läppäri mukaan, jos mahdollista. Se helpottaa koodinäytteen esittelyä.
->
-> Tervetuloa! Kuittaathan mahdollisimman pian, sopiiko ehdottamamme aika sinulle.
->
-> Ystävällisin terveisin,
->
-> Ville Peurala
-> Teknologiajohtaja
-> Wunderdog Oy
+[source]
+----
+From: ville.peurala@wunderdog.fi
+To: tyon.hakija@osoite.fi
+Cc: toinen.haastattelija@wunderdog.fi
+Subject: Kutsu haastatteluun Wunderdogille ${ehdotettu haastatteluaika}
+Moi ${hakijan etunimi},
+
+olitte keskustelleet ${kierroksen 1 haastattelijan} kanssa mahdollisesta työpaikasta Wunderdogilla. Meille jäi sinusta hyvä kuva ja haluaisimme jatkaa keskusteluita kanssasi.
+
+Haluaisin kutsua sinut hieman teknisempään haastatteluun. Sopiiko sinulle ${ehdotettu haastatteluaika}? Paikka on Wunderdogin toimisto osoitteessa Mikonkatu 13 A, 4. kerros.
+
+Mukaan haastatteluun tulee myös ${toisen haastattelijan nimi}. ${tässä voit kertoa jotain toisesta haastattelijasta jos haluat, vaikkapa että hän työskentelee Wunderdogilla koodaajana}
+
+Osana haastattelua haluaisimme nähdä sinulta jonkinlaisen koodinäytteen, jota voimme käyttää keskustelun pohjana. Se voi olla omasta open source -projektista, jostakin työprojektista tai oikeastaan mistä tahansa - riittää, että se on sinun kirjoittamaasi koodia. Olisi hyvä, jos näyte olisi suhteellisen tuore, jos mahdollista, mutta vanhempikin käy. Käyttämäsi ohjelmointikieli voi olla mikä tahansa. Haastattelussa sitten keskustelemme tästä koodista, kyselemme tekemiesi design-ratkaisujen perusteista, mitä tekisit nyt toisin, jne. Voit lähettää koodinäytteen meille etukäteen tai tuoda sen mukanasi haastatteluun.
+
+Ota mielellään oma läppäri mukaan, jos mahdollista. Se helpottaa koodinäytteen esittelyä.
+
+Tervetuloa! Kuittaathan mahdollisimman pian, sopiiko ehdottamamme aika sinulle.
+
+Ystävällisin terveisin,
+
+Ville Peurala
+Teknologiajohtaja
+Wunderdog Oy
+----
 
 <<<
 
