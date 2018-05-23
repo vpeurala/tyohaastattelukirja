@@ -23,7 +23,7 @@ Tässä oppaassa keskitytään lähinnä ns. tekniseen kierrokseen, joka on Wund
 . Toinen kierros: Tekninen työhaastattelu. Tähän keskitytään tässä oppaassa. Pitäjät yleensä: joku viisikosta *luotsina* ja joku Wunderdogin koodaaja *lautturina*.
 . Kolmas kierros: Käytännön asioista, kuten palkasta ja töiden aloittamisesta, sopiminen. Tämänkin pitää yleensä *Mobu*.
 
-Kaikki tämän oppaan neuvot ovat vain ohjeellisia! Jos sinusta tuntuu, että joku sanottava asia ei sovi sinun suuhusi, niin älä sano sitä. On tärkeää pitää keskustelu kaikille osapuolille luontevana.
+Kaikki tämän oppaan neuvot ovat vain ohjeellisia! Jos sinusta tuntuu, että jokin sanottava asia ei sovi sinun suuhusi, niin älä sano sitä. On tärkeää pitää keskustelu kaikille osapuolille luontevana.
 
 Tärkeintä työhaastattelussa on saada tieto siitä, haluammeko palkata hakijan.
 
@@ -130,7 +130,7 @@ Johdata hakija huoneeseen, jossa työhaastattelu tapahtuu. Osoita hänelle oikea
 
 === Älä multitaskaa, se ei onnistu
 
-Keskity työhaastatteluun sataprosenttisesti. Laita puhelin kiinni haastattelun ajaksi. Jos sinulla on läppäri, älä lue maileja tai Slackia haastattelun aikana. Muiden asioiden tekeminen samaan aikaan antaa ensinnäkin epäammattimaisen ja epäkohteliaan vaikutelman; toisekseen, se saattaa aiheuttaa sen, että sinulta menee ohi joku haastattelun kannalta oleellinen asia. On tosi noloa joutua sanomaan "anteeksi, voisitko toistaa äskeisen, en kuunnellut". Vielä nolompaa on päästää joku asia ohi korvien kokonaan.
+Keskity työhaastatteluun sataprosenttisesti. Laita puhelin kiinni haastattelun ajaksi. Jos sinulla on läppäri, älä lue maileja tai Slackia haastattelun aikana. Muiden asioiden tekeminen samaan aikaan antaa ensinnäkin epäammattimaisen ja epäkohteliaan vaikutelman; toisekseen, se saattaa aiheuttaa sen, että sinulta menee ohi jokin haastattelun kannalta oleellinen asia. On tosi noloa joutua sanomaan "anteeksi, voisitko toistaa äskeisen, en kuunnellut". Vielä nolompaa on päästää jokin asia ohi korvien kokonaan.
 
 Ihminen ei pysty keskittymään moneen asiaan samaan aikaan. Älä edes yritä.
 
@@ -160,8 +160,7 @@ Se tehtävä, jota hakija jää tekemään siksi aikaa kun haastattelijat menev�
 
 Tauolla kannattaa miettiä vastaukset seuraaviin kysymyksiin:
 
-* Mitkä ovat haastattelijoiden yleisfiilikset hakijasta - peukku alas vai ylös?
-** Mieti sellaisia asioita, jotka saattaisivat kääntää mielipiteen. Eli:
+* Mitkä ovat haastattelijoiden yleisfiilikset hakijasta - peukku alas vai ylös? Mieti sellaisia asioita, jotka saattaisivat kääntää mielipiteen. Eli:
 ** Jos peukku nyt alas, niin mikä olisi sellainen tieto hakijasta joka saattaisi vielä kääntää sen ylös? Mitä sellaista voisit kysyä, missä hakija pääsisi loistamaan?
 ** Jos peukku nyt ylös, niin vastaavasti: mikä olisi sellainen tieto hakijasta joka kääntäisi sen alas? Mitä sellaista hakijasta voisi paljastua, joka johtaisi siihen että häntä ei haluta palkata Wunderdogille? Millä kysymyksillä sen saisi selville?
 * Mitä kysytään vielä
@@ -179,7 +178,7 @@ Kun saat itseltäsi vastaukset näihin kysymyksiin, niin mieti, miksi näin. Mit
 
 === Haastattelun lopettaminen
 
-Kun haastattelua ollaan lopettamassa, *luotsi* kertoo hakijalle, että palaamme asiaan viikon sisällä. Eli oli lopputulos mikä tahansa, joku Wunderdogilta on yhteydessä hakijaan viikon kuluessa ja kertoo miten kävi. Tämä on merkki *lautturille*, että nyt haastattelu loppuu näiden jälkeen.
+Kun haastattelua ollaan lopettamassa, *luotsi* kertoo hakijalle, että palaamme asiaan viikon sisällä. Eli oli lopputulos mikä tahansa, joku Wunderdogilta on yhteydessä hakijaan viikon kuluessa ja kertoo miten kävi. Tämä on merkki *lautturille*, että haastattelu on päättymässä.
 
 Sitten *luotsi* kysyy lopuksi hakijalta, onko hänellä vielä jotain kysyttävää tai kerrottavaa. Jotkut hakijat kyselevät paljonkin, tai kertovat jotain itsestään. Useimmat vastaavat, että eipä tässä oikein mitään.
 
@@ -205,7 +204,7 @@ On hyvä huomata, että suljettuja kysymyksiä on muitakin kuin "kyllä tai ei"-
 
 Suljetut kysymykset ovat yleensä työhaastattelussa huonoja. Ne tuottavat yleensä lyhyen vastauksen ja katkaisevat keskustelun ikävästi, jolloin haastattelijoiden vastuulle jää saada keskustelu uudelleen käyntiin. Liiallinen suljettujen kysymysten käyttö johtaa siihen, että työhaastattelu alkaa muistuttaa poliisikuulustelua. Sellaisesta ei hakijalle jää hyvä fiilis.
 
-On myös hyvä tiedostaa, että kokematon haastattelija saattaa vahingossa muuttaa avoimen kysymyksen suljetuksi antamalla turhaan valmiit vastausvaihtoehdot. Vaikkapa: "Millä kielellä teet mieluiten shelliskriptausta? __(tähän asti avoin kysymys)__ Pythonilla, Rubylla vai Perlillä? __(kosh: muutit juuri kysymyksen suljetuksi)__".
+On myös hyvä tiedostaa, että kokematon haastattelija saattaa vahingossa muuttaa avoimen kysymyksen suljetuksi antamalla turhaan valmiit vastausvaihtoehdot. Vaikkapa: "Millä kielellä teet mieluiten shelliskriptausta?" __(tähän asti avoin kysymys)__ "Pythonilla, Rubylla vai Perlillä?" __(kosh: muutit juuri kysymyksen suljetuksi)__.
 
 === Hyökkäävä kysymys
 
@@ -251,7 +250,7 @@ Hyökkäävää kysymystä ei aina tajua hyökkääväksi siinä vaiheessa kun p
 * Mitä tekisit, jos sinulla olisi töissä kaksi viikkoa täysin vapaata aikaa uusien asioiden treenaamiseen ja itsesi kehittämiseen? Eli jos sinulla ei olisi projektia?
 
 === Huonoja kysymyksiä
-* _Missä näet itsesi viiden vuoden päästä?_ Kaikkien paskojen työhaastattelukysymysten äiti. Ei tähän tiedä kukaan oikeaa vastausta, ja yleensä hakija vastaa tähän sen mitä kuvittelee haastatteli(jan|joiden) haluavan kuulla. Eli saat vastaukseksi jonkinlaisen hätävalheen siitä, että kyllä kyllä, yritän pyrkiä urallani eteenpäin, kolmen vuoden päästä olen ehkä arkkitehti ja kuuden vuoden päästä projektipäällikkö ja kymmenen vuoden päästä ylimmässä johdossa. Vaikka oikeasti haluaisinkin vain koodata.
+* _Missä näet itsesi viiden vuoden päästä?_ Kaikkien paskojen työhaastattelukysymysten äiti. Ei tähän tiedä kukaan oikeaa vastausta, ja yleensä hakija vastaa tähän sen mitä kuvittelee haastattelijan haluavan kuulla. Eli saat vastaukseksi jonkinlaisen hätävalheen siitä, että kyllä kyllä, yritän pyrkiä urallani eteenpäin, kolmen vuoden päästä olen ehkä arkkitehti ja kuuden vuoden päästä projektipäällikkö ja kymmenen vuoden päästä ylimmässä johdossa. Vaikka oikeasti haluaisinkin vain koodata.
 * Melkein kaikki suljetut kysymykset
 * Melkein kaikki hyökkäävät kysymykset
 
@@ -305,12 +304,14 @@ Ole rehellinen kaikessa muussakin. Alan piirit ovat pienet ja epärehellisyys ko
 
 == Loppusanat
 
-Työhaastatteluiden pitäminen on kovaa hommaa. Maksimi on yksi päivässä, enempää ei pysty 100% teholla tekemään.
+Työhaastatteluiden pitäminen on kovaa hommaa. Maksimi on yksi päivässä, enempää ei pysty sadan prosentin teholla tekemään.
 
-Rekrytointi on minun mielestäni nykyään useimpien softa-alan yritysten tärkein toiminto. Aikaisemmin kaikkien yritysten tärkeimpänä toimintona nähtiin myynti, alasta riippumatta, koska myynnin kehitys määritti sen, minkä kokoiseksi yritys voi kasvaa. Työntekijöistä ei yleensä ollut pulaa. Tämä on softa-alalla nykyään toisin päin, ainakin Suomen markkinoilla. Myynti on edelleen tärkeää, mutta osaavien tekijöiden saaminen yritykseen rajoittaa useimpien yritysten kokoa enemmän kuin asiakkaiden löytyminen.
+Rekrytointi on minun mielestäni nykyään useimpien softa-alan yritysten tärkein toiminto. Aikaisemmin kaikkien yritysten tärkeimpänä toimintona nähtiin myynti, alasta riippumatta, koska myynnin kehitys määritti sen, minkä kokoiseksi yritys voi kasvaa. Työntekijöistä ei yleensä ollut pulaa. Softa-alalla tilanne on nykyään päinvastainen, ainakin Suomen markkinoilla. Myynti on edelleen tärkeää, mutta useimpien yritysten kasvua rajoittaa ennemminkin puute osaavista tekijöistä kuin asiakkaista.
 
 Eli työhaastatteluita ei voi pitää vasemmalla kädellä. Niihin pitää panostaa kunnolla.
 
-Työhaastattelun pitäminen on parhaimmillaan tosi hauskaa. Pahimmillaan se on todella tylsää ja ankeaa; jos hakija on sellainen, että ensimmäisen minuutin aikana tietää lopputuloksen, mutta silti pitää kohteliaisuudesta istua vähintään puoli tuntia. Mutta kivoimmillaan se on tosi kivaa; kun edessä on sellainen hakija, josta on varma fiilis, että tämän tyypin minä haluan työkaverikseni.
+Pahimmillaan työhaastattelun pitäminen on todella ankeaa. Joskus lopputuloksen tietää ensimmäisen minuutin aikana ja silti kohteliaisuudesta pitää istua puoli tuntia.
+
+Mutta kivoimmillaan se on tosi kivaa; kun edessä on sellainen hakija, josta on varma fiilis, että tämän tyypin minä haluan työkaverikseni.
 
 <<<
