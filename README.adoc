@@ -6,8 +6,8 @@
 :imagesdir: images
 :front-cover-image: images/tyohaastattelukirja_kansikuva.png
 :pdf-page-size: [148mm, 210mm]
-:author: Ville Peurala (Kukko)
-:email: ville.peurala@wunderdog.fi
+:author: Ville Peurala
+:email: ville.peurala@gmail.com
 :sectnums:
 :doctype: book
 
@@ -15,25 +15,25 @@
 [discrete]
 == Alkusanat
 
-Olen pitänyt suunnilleen 500 työhaastattelua, joista noin 350 Reaktorilla ja noin 150 Wunderdogilla. En tiedä työhaastattelun pitämisestä kaikkea, mutta tiedän perusjutut. Tässä oppaassa olen yrittänyt tiivistää ne mahdollisimman tiukkaan pakettiin, jotta työhaastattelua ensimmäistä kertaa pitävä ei joutuisi tekemään samoja virheitä, jotka itse olen tehnyt.
+Olen pitänyt suunnilleen 500 työhaastattelua, joista noin 350 Reaktorilla, noin 150 Wunderdogilla ja muutaman muissa firmoissa. En tiedä työhaastattelun pitämisestä kaikkea, mutta tiedän perusjutut. Tässä oppaassa olen yrittänyt tiivistää ne mahdollisimman tiukkaan pakettiin, jotta työhaastattelua ensimmäistä kertaa pitävä ei joutuisi tekemään samoja virheitä, jotka itse olen tehnyt.
 
-Tässä oppaassa keskitytään lähinnä ns. tekniseen kierrokseen, joka on Wunderdogin rekrykaavassa yleensä toinen kierros. Homma menee yleensä näin:
+Tässä oppaassa keskitytään lähinnä ns. tekniseen kierrokseen, joka on yleisesti Suomessa käytetyssä koodaajien rekrykaavassa yleensä toinen kierros. Homma menee yleensä näin:
 
-. Ensimmäinen kierros: Ns. yleistsekkaus. Katsotaan persoonaa, soveltuuko työyhteisöön, vaikuttaako halukkaalta oppimaan ja kehittymään, jne. perusjuttuja. Tämän pitää yleensä *Mobu*.
-. Toinen kierros: Tekninen työhaastattelu. Tähän keskitytään tässä oppaassa. Pitäjät yleensä: joku viisikosta *luotsina* ja joku Wunderdogin koodaaja *lautturina*.
-. Kolmas kierros: Käytännön asioista, kuten palkasta ja töiden aloittamisesta, sopiminen. Tämänkin pitää yleensä *Mobu*.
+. Ensimmäinen kierros: Ns. yleistsekkaus. Katsotaan persoonaa, soveltuuko työyhteisöön, vaikuttaako halukkaalta oppimaan ja kehittymään, jne. perusjuttuja. Tämän pitää yleensä joku ei-tekninen tuleva esimies, pienemmissä yrityksissä usein toimitusjohtaja tai jonkinlainen HR:n johtaja..
+. Toinen kierros: Tekninen työhaastattelu. Tähän keskitytään tässä oppaassa. Pitäjät yleensä: joku yrityksen johdon edustaja *luotsina* ja joku koodaaja *lautturina*.
+. Kolmas kierros: Käytännön asioista, kuten palkasta ja töiden aloittamisesta, sopiminen. Tämän pitää yleensä sama henkilö kuin ensimmäisen kierroksen.
 
 Kaikki tämän oppaan neuvot ovat vain ohjeellisia! Jos sinusta tuntuu, että jokin sanottava asia ei sovi sinun suuhusi, niin älä sano sitä. On tärkeää pitää keskustelu kaikille osapuolille luontevana.
 
 Tärkeintä työhaastattelussa on saada tieto siitä, haluammeko palkata hakijan.
 
-Toiseksi tärkeintä on jättää kaikille osapuolille hyvä fiilis keskustelusta, ja hakijalle sellainen olo että hän haluaa vielä keskustelun jälkeenkin töihin Wunderdogille.
+Toiseksi tärkeintä on jättää kaikille osapuolille hyvä fiilis keskustelusta, ja hakijalle sellainen olo että hän haluaa vielä keskustelun jälkeenkin töihin yritykseen.
 
 <<<
 
 == Roolijako
 
-Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja *lautturi*, ja näistä on hyvä sopia etukäteen. Kiitos **Valde**lle hyvien termien keksimisestä! Yleensä joku viisikosta on *luotsi* ja joku Wunderdogin koodaaja *lautturi*. Tehtävät ovat seuraavanlaiset:
+Tekninen haastattelukierros pidetään yleensä parina. Roolit ovat *luotsi* ja *lautturi*, ja näistä on hyvä sopia etukäteen. Kiitos **Valde**lle hyvien termien keksimisestä! Yleensä johdon edustaja on *luotsi* ja koodaaja *lautturi*. Tehtävät ovat seuraavanlaiset:
 
 Luotsi:: Ohjailee keskustelun suuria linjoja. Toimii ikään kuin keskustelun puheenjohtajana. Päättää keskustelun kun on sen aika.
 Lautturi:: Tarkkailee tilannetta ja kuuntelee tarkasti hakijan vastauksia. Esittää lisäkysymyksiä. Pyrkii pitämään keskustelun käynnissä.
@@ -43,7 +43,7 @@ Teknisen työhaastattelun voi pitää yksinkin, mutta suosittelen lämpimästi s
 * Yksin voi päätöstä olla vaikea muodostaa, kun ei ole ketään kenen kanssa pallotella ajatuksia.
 * Muistiinpanojen tekeminen on helpompaa parina, kun toinen voi kirjoittaa silloin kun toinen puhuu.
 * Työhaastattelun pitäminen yksin on henkisesti raskasta, kun pitää koko ajan olla skarppina ja yksin vastuussa kaikesta.
-* On hyvä, että mahdollisimman moni Wunderdogin työntekijä kerää kokemusta työhaastattelujen pitämisestä. Tämä mahdollistaa sen, että firman kasvaessa ja työhaastattelujen lisääntyessä viisikon kuormitusta on mahdollista purkaa useammalle ihmiselle.
+* On hyvä, että mahdollisimman moni yrityksen työntekijä kerää kokemusta työhaastattelujen pitämisestä. Tämä mahdollistaa sen, että firman kasvaessa ja työhaastattelujen lisääntyessä johdon kuormitusta on mahdollista purkaa useammalle ihmiselle.
 * On hyvä, että hakija tapaa rekrytointiprosessin aikana muitakin ihmisiä kuin "pomoja".
 
 === Muistiinpanojen tekeminen
@@ -53,14 +53,14 @@ On yleensä järkevintä, että *lautturilla* on mukanaan läppäri, jolla hän 
 Muistiinpanojen tekemisessä kannattaa käyttää tervettä järkeä. Kaikkia pikkunippeliasioita ei tarvitse kirjata ylös. Sellaiset asiat kannattaa kirjata ylös, jotka:
 
 * Vaikuttavat rekrypäätökseen, tai
-* Vaikuttavat hakijan tulevaan työnkuvaan Wunderdogilla mikäli hän päätyy WD:lle töihin, tai
+* Vaikuttavat hakijan tulevaan työnkuvaan Wunderdogilla mikäli hän päätyy yritykseen töihin, tai
 * Ovat muuten vaan erityisen mielenkiintoisia.
 
 Mikäli molemmilla haastattelijoilla on läppäri mukanaan, on suositeltavaa, että vain toinen niistä on kerrallaan auki. Vähintään toisella haastattelijoista pitäisi olla koko ajan suora katse- ja kehonkielikontakti hakijaan, ja auki oleva läppäri katkaisee sen aika tehokkaasti.
 
 === Muistiinpanojen jälkikäsittely
 
-Mielellään heti haastattelun jälkeen *luotsi* puhtaaksikirjoittaa muistiinpanot ja postaa ne Slackin suljetulle kanavalle, jossa WD:n johto (eli viisikko) miettii rekrypäätöksiä.
+Mielellään heti haastattelun jälkeen *luotsi* puhtaaksikirjoittaa muistiinpanot ja postaa ne Slackin suljetulle kanavalle, jossa yrityksen johto tai HR miettii rekrypäätöksiä.
 
 Tämä kannattaa tehdä heti, kun haastattelu on ohi, jos vain mitenkään mahdollista. Silloin vielä muistaa mihin asiaan mikäkin ranskalainen viiva muistiinpanoissa viittaa. Ihminen unohtaa asioita yllättävän nopeasti, myös sinä.
 
@@ -69,7 +69,7 @@ Tämä kannattaa tehdä heti, kun haastattelu on ohi, jos vain mitenkään mahdo
 Kutsu työhaastatteluun tapahtuu yleensä sähköpostitse. Muista kutsussa seuraavat asiat:
 
 * Ehdotettu aika, ja pyyntö että hakija itse ehdottaa jotakin toista aikaa jos tämä ei sovi
-* Paikka, käytännössä aina Wunderdogin toimisto osoitteessa Mikonkatu 13 A, 4. kerros
+* Paikka
 * Maininta siitä, että hakijan toivotaan tuovan koodinäyte mukanaan tai lähettävän sen etukäteen
 * Maininta siitä, että olisi hyvä jos hakijalla olisi mukanaan oma läppäri, josta hän voi esimerkiksi esitellä koodinäytettään (mielellään vielä kehitysympäristö valmiina)
 
@@ -77,17 +77,17 @@ Itse käytän yleensä suunnilleen tällaista templatea:
 
 [source]
 ----
-From: ville.peurala@wunderdog.fi
+From: ville.peurala@yritys.fi
 To: tyon.hakija@osoite.fi
-Cc: toinen.haastattelija@wunderdog.fi
-Subject: Kutsu haastatteluun Wunderdogille ${ehdotettu haastatteluaika}
+Cc: toinen.haastattelija@yritys.fi
+Subject: Kutsu haastatteluun ${yritykseen} ${ehdotettu haastatteluaika}
 Moi ${hakijan etunimi},
 
-olitte keskustelleet ${kierroksen 1 haastattelijan} kanssa mahdollisesta työpaikasta Wunderdogilla. Meille jäi sinusta hyvä kuva ja haluaisimme jatkaa keskusteluita kanssasi.
+olitte keskustelleet ${kierroksen 1 haastattelijan} kanssa mahdollisesta työpaikasta ${yrityksessä}. Meille jäi sinusta hyvä kuva ja haluaisimme jatkaa keskusteluita kanssasi.
 
-Haluaisin kutsua sinut hieman teknisempään haastatteluun. Sopiiko sinulle ${ehdotettu haastatteluaika}? Paikka on Wunderdogin toimisto osoitteessa Mikonkatu 13 A, 4. kerros.
+Haluaisin kutsua sinut hieman teknisempään haastatteluun. Sopiiko sinulle ${ehdotettu haastatteluaika}? Paikka on ${paikka}.
 
-Mukaan haastatteluun tulee myös ${toisen haastattelijan nimi}. ${tässä voit kertoa jotain toisesta haastattelijasta jos haluat, vaikkapa että hän työskentelee Wunderdogilla koodaajana}
+Mukaan haastatteluun tulee myös ${toisen haastattelijan nimi}. ${tässä voit kertoa jotain toisesta haastattelijasta jos haluat, vaikkapa että hän työskentelee yrityksessä koodaajana}
 
 Osana haastattelua haluaisimme nähdä sinulta jonkinlaisen koodinäytteen, jota voimme käyttää keskustelun pohjana. Se voi olla omasta open source -projektista, jostakin työprojektista tai oikeastaan mistä tahansa - riittää, että se on sinun kirjoittamaasi koodia. Olisi hyvä, jos näyte olisi suhteellisen tuore, jos mahdollista, mutta vanhempikin käy. Käyttämäsi ohjelmointikieli voi olla mikä tahansa. Haastattelussa sitten keskustelemme tästä koodista, kyselemme tekemiesi design-ratkaisujen perusteista, mitä tekisit nyt toisin, jne. Voit lähettää koodinäytteen meille etukäteen tai tuoda sen mukanasi haastatteluun.
 
@@ -98,8 +98,7 @@ Tervetuloa! Kuittaathan mahdollisimman pian, sopiiko ehdottamamme aika sinulle.
 Ystävällisin terveisin,
 
 Ville Peurala
-Teknologiajohtaja
-Wunderdog Oy
+Yritys Oy
 ----
 
 <<<
@@ -108,7 +107,7 @@ Wunderdog Oy
 
 === Varaa huone
 
-Huoneiden varaus tapahtuu Google Calendarin kautta. Kannattaa yleensä varata työhaastatteluihin *Luola*. Se on tilana hieman turhan iso, mutta muuten hyvä työhaastattelun pitämiseen.
+Muista varata haastattelulle tila etukäteen. On noloa, jos joudutte hakijan kanssa ravaamaan ympäri toimistoa neukkaria etsien.
 
 === Istumajärjestys
 
@@ -162,7 +161,7 @@ Tauolla kannattaa miettiä vastaukset seuraaviin kysymyksiin:
 
 * Mitkä ovat haastattelijoiden yleisfiilikset hakijasta - peukku alas vai ylös? Mieti sellaisia asioita, jotka saattaisivat kääntää mielipiteen. Eli:
 ** Jos peukku nyt alas, niin mikä olisi sellainen tieto hakijasta joka saattaisi vielä kääntää sen ylös? Mitä sellaista voisit kysyä, missä hakija pääsisi loistamaan?
-** Jos peukku nyt ylös, niin vastaavasti: mikä olisi sellainen tieto hakijasta joka kääntäisi sen alas? Mitä sellaista hakijasta voisi paljastua, joka johtaisi siihen että häntä ei haluta palkata Wunderdogille? Millä kysymyksillä sen saisi selville?
+** Jos peukku nyt ylös, niin vastaavasti: mikä olisi sellainen tieto hakijasta joka kääntäisi sen alas? Mitä sellaista hakijasta voisi paljastua, joka johtaisi siihen että häntä ei haluta palkata? Millä kysymyksillä sen saisi selville?
 * Mitä kysytään vielä
 * Mitä kerrotaan vielä
 
@@ -178,7 +177,7 @@ Kun saat itseltäsi vastaukset näihin kysymyksiin, niin mieti, miksi näin. Mit
 
 === Haastattelun lopettaminen
 
-Kun haastattelua ollaan lopettamassa, *luotsi* kertoo hakijalle, että palaamme asiaan viikon sisällä. Eli oli lopputulos mikä tahansa, joku Wunderdogilta on yhteydessä hakijaan viikon kuluessa ja kertoo miten kävi. Tämä on merkki *lautturille*, että haastattelu on päättymässä.
+Kun haastattelua ollaan lopettamassa, *luotsi* kertoo hakijalle, että palaamme asiaan viikon sisällä. Eli oli lopputulos mikä tahansa, joku yrityksestä on yhteydessä hakijaan viikon kuluessa ja kertoo miten kävi. Tämä on merkki *lautturille*, että haastattelu on päättymässä.
 
 Sitten *luotsi* kysyy lopuksi hakijalta, onko hänellä vielä jotain kysyttävää tai kerrottavaa. Jotkut hakijat kyselevät paljonkin, tai kertovat jotain itsestään. Useimmat vastaavat, että eipä tässä oikein mitään.
 
@@ -276,7 +275,7 @@ Nämä minä pyrin yleensä hoitamaan haastattelun loppupuolella.
 
 == Päätöksenteko
 
-Positiivinen rekrytointipäätös syntyy silloin, kun haastattelijat ovat sitä mieltä, että sekä hakijan että Wunderdogin etu olisi, että hakija tulisi töihin Wunderdogille. Win-win.
+Positiivinen rekrytointipäätös syntyy silloin, kun haastattelijat ovat sitä mieltä, että sekä hakijan että yrityksen etu olisi, että hakija tulisi töihin yritykseen. Win-win.
 
 Tämän jälkeenkään ei ole sanottu, että hakija välttämättä ottaisi työtarjousta vastaan. Koodaajien työmarkkinat ovat kuumat. On paljon sellaisia koodaajia, jotka joka ikinen tämän alan firma ottaisi jos vain saisi. Meidän rimamme on korkealla, ja niinpä ne koodaajat, jotka kelpaavat meille, kelpaavat useimmille muillekin alan firmoille.
 
@@ -286,9 +285,9 @@ Jos me tarjoamme töitä jollekin, mutta hän ei ota niitä vastaan, ei se ole k
 
 == Rekry on myös myyntiä
 
-Jokainen työhaastatteluun tulija ei välttämättä ole vielä varma, haluaako hän töihin Wunderdogille. Haastattelijoiden on huolehdittava siitä, että haastattelun lopussa hän haluaa.
+Jokainen työhaastatteluun tulija ei välttämättä ole vielä varma, haluaako hän töihin yritykseen. Voi olla, että hän on tullut headhunterin kautta eikä tiedä koko firmasta mitään. Haastattelijoiden on huolehdittava siitä, että haastattelun lopussa hän haluaa.
 
-Voi olla, että hakijaa ei siitä huolimatta palkata. Ei se mitään. Jos hakija on esimerkiksi vielä vähän liian kokematon Wunderdogille, voidaan sanoa että odotetaan vuosi tai pari ja katsotaan tilanne sitten uudelleen. Joka tapauksessa on pyrittävä siihen, että hakijalle jää hyvä vaikutelma Wunderdogista ja hän pitää WD:tä tulevaisuudessa haluttavana työpaikkana.
+Voi olla, että hakijaa ei siitä huolimatta palkata. Ei se mitään. Jos hakija on esimerkiksi vielä vähän liian kokematon, voidaan sanoa että odotetaan vuosi tai pari ja katsotaan tilanne sitten uudelleen. Joka tapauksessa on pyrittävä siihen, että hakijalle jää hyvä vaikutelma yrityksestä ja hän pitää sitä tulevaisuudessa haluttavana työpaikkana.
 
 <<<
 
@@ -296,7 +295,7 @@ Voi olla, että hakijaa ei siitä huolimatta palkata. Ei se mitään. Jos hakija
 
 Työhaastattelussa täytyy olla rehellinen ja luotettava. Jos hakija kertoo jonkin asian luottamuksellisesti, sen täytyy myös säilyä luottamuksellisena.
 
-Muista olla rehellinen, kun myyt Wunderdogia. Älä liioittele WD:n hyviä puolia äläkä jätä kertomatta WD:n huonoja puolia.
+Muista olla rehellinen, kun myyt yritystä. Älä liioittele sen hyviä puolia äläkä jätä kertomatta sen huonoja puolia.
 
 Ole rehellinen kaikessa muussakin. Alan piirit ovat pienet ja epärehellisyys kostautuu varmasti myöhemmin.
 
