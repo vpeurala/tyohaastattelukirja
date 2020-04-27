@@ -53,7 +53,7 @@ On yleensä järkevintä, että *lautturilla* on mukanaan läppäri, jolla hän 
 Muistiinpanojen tekemisessä kannattaa käyttää tervettä järkeä. Kaikkia pikkunippeliasioita ei tarvitse kirjata ylös. Sellaiset asiat kannattaa kirjata ylös, jotka:
 
 * Vaikuttavat rekrypäätökseen, tai
-* Vaikuttavat hakijan tulevaan työnkuvaan Wunderdogilla mikäli hän päätyy yritykseen töihin, tai
+* Vaikuttavat hakijan tulevaan työnkuvaan mikäli hän päätyy yritykseen töihin, tai
 * Ovat muuten vaan erityisen mielenkiintoisia.
 
 Mikäli molemmilla haastattelijoilla on läppäri mukanaan, on suositeltavaa, että vain toinen niistä on kerrallaan auki. Vähintään toisella haastattelijoista pitäisi olla koko ajan suora katse- ja kehonkielikontakti hakijaan, ja auki oleva läppäri katkaisee sen aika tehokkaasti.
@@ -139,7 +139,7 @@ Haastattelun alussa haastattelijat esittäytyvät. Kannattaa kertoa jotain henki
 
 Esimerkiksi minä esittäydyn nykyään suunnilleen näin:
 
-> Moi. Olen Ville Peurala, Wunderdog-lempinimeltäni Kukko, Wunderdogin CTO ja yksi firman perustajista. Teen edelleen laskutettavaa työtä asiakkailla noin neljä päivää viikossa, ja yhden päivän käytän firman hallinnollisiin asioihin. Asun Vallilassa, kotona minulla on vaimo ja nelivuotias tytär. Harrastan musiikin tekemistä, teen sitä sekä yksin tietokoneella että soitan bändissä.
+> Moi. Olen Ville Peurala, lempinimeltäni Kukko, Wunderdogin CTO ja yksi firman perustajista. Teen edelleen laskutettavaa työtä asiakkailla noin neljä päivää viikossa, ja yhden päivän käytän firman hallinnollisiin asioihin. Asun Vallilassa, kotona minulla on vaimo ja nelivuotias tytär. Harrastan musiikin tekemistä, teen sitä sekä yksin tietokoneella että soitan bändissä.
 
 <<<
 
